@@ -1,0 +1,971 @@
+ID_num,job_title,Short_description,Skills_required,Industry,Pay_grade
+1,Software Engineer,Develop and maintain web applications using modern frameworks,['problem solving logical reasoning attention to detail team collaboration critical thinking'],Technology,High paying
+2,Data Scientist,Analyze large datasets to extract business insights and build predictive models,['analytical thinking pattern recognition mathematical reasoning problem solving research skills'],Technology,High paying
+3,Marketing Manager,Lead marketing campaigns and brand strategy development,['creative thinking strategic planning communication leadership project management'],Marketing,Average paying
+4,UX Designer,Design user-friendly interfaces and improve user experience,['creative problem solving empathy research skills visual thinking user-centered design'],Technology,Average paying
+5,Financial Analyst,Analyze financial data and prepare reports for investment decisions,['analytical thinking attention to detail mathematical reasoning critical thinking report writing'],Finance,Average paying
+6,Project Manager,Coordinate cross-functional teams to deliver projects on time and budget,['leadership organization time management communication risk assessment'],Business Services,Average paying
+7,Sales Representative,Generate leads and close deals with potential customers,['persuasion communication relationship building resilience goal orientation'],Sales,Average paying
+8,HR Specialist,Manage recruitment processes and employee relations,['interpersonal skills communication conflict resolution organizational skills discretion'],Human Resources,Average paying
+9,Graphic Designer,Create visual content for marketing materials and brand assets,['creativity visual communication color theory artistic skills brand awareness'],Creative Services,Average paying
+10,Business Analyst,Analyze business processes and recommend improvements,['analytical thinking process improvement problem solving communication systems thinking'],Business Services,Average paying
+11,Content Writer,Create engaging content for websites blogs and marketing materials,['creative writing research skills communication adaptability time management'],Media & Publishing,Average paying
+12,Network Administrator,Maintain and troubleshoot computer networks and systems,['problem solving technical troubleshooting logical reasoning attention to detail patience'],Technology,Average paying
+13,Accountant,Prepare financial statements and manage accounting records,['mathematical accuracy attention to detail organizational skills analytical thinking ethics'],Finance,Average paying
+14,Customer Service Representative,Provide support to customers via phone email and chat,['active listening patience problem solving communication empathy'],Customer Service,Low paying
+15,Operations Manager,Oversee daily operations and optimize business processes,['leadership process improvement decision making strategic thinking team management'],Business Services,Average paying
+16,DevOps Engineer,Implement CI/CD pipelines and manage cloud infrastructure,['problem solving systems thinking automation mindset continuous learning technical troubleshooting'],Technology,High paying
+17,Quality Assurance Tester,Test software applications to identify bugs and ensure quality,['attention to detail critical thinking problem solving patience systematic thinking'],Technology,Average paying
+18,Social Media Manager,Manage social media presence and create engaging content,['creative thinking trend awareness communication brand awareness community building'],Marketing,Average paying
+19,Research Scientist,Conduct scientific research and publish findings,['critical thinking research skills analytical reasoning persistence scientific writing'],Research & Development,High paying
+20,Legal Assistant,Support lawyers with case preparation and legal documentation,['attention to detail research skills organization confidentiality time management'],Legal Services,Average paying
+21,Web Developer,Build and maintain websites using various programming languages,['problem solving creative thinking attention to detail continuous learning adaptability'],Technology,Average paying
+22,Nurse,Provide patient care in healthcare settings,['compassion clinical judgment communication attention to detail stress management'],Healthcare,Average paying
+23,Teacher,Educate students and develop curriculum for classroom instruction,['communication patience creativity organization adaptability'],Education,Average paying
+24,Mechanical Engineer,Design and develop mechanical systems and products,['problem solving mathematical reasoning spatial reasoning critical thinking project management'],Engineering,High paying
+25,Digital Marketing Specialist,Execute digital marketing campaigns across multiple channels,['analytical thinking creative problem solving data interpretation communication trend awareness'],Marketing,Average paying
+26,Database Administrator,Manage and maintain database systems and ensure data integrity,['logical reasoning problem solving attention to detail systems thinking security awareness'],Technology,Average paying
+27,Administrative Assistant,Provide administrative support to executives and teams,['organization multitasking communication attention to detail discretion'],Business Services,Low paying
+28,Video Editor,Edit and produce video content for various media platforms,['creativity attention to detail time management visual storytelling technical aptitude'],Media & Publishing,Average paying
+29,Cybersecurity Analyst,Monitor and protect computer systems from security threats,['critical thinking problem solving attention to detail ethical reasoning continuous learning'],Technology,High paying
+30,Supply Chain Coordinator,Manage inventory and coordinate logistics operations,['organization analytical thinking communication problem solving time management'],Logistics,Average paying
+31,Mobile App Developer,Develop mobile applications for iOS and Android platforms,['problem solving logical reasoning user experience design attention to detail innovation'],Technology,High paying
+32,Interior Designer,Design interior spaces for residential and commercial properties,['creativity spatial reasoning communication client relations project management'],Design Services,Average paying
+33,Electrical Engineer,Design electrical systems and troubleshoot electrical problems,['problem solving mathematical reasoning safety awareness attention to detail critical thinking'],Engineering,High paying
+34,Marketing Coordinator,Support marketing initiatives and coordinate promotional activities,['organization communication creative thinking time management attention to detail'],Marketing,Low paying
+35,Technical Writer,Create technical documentation and user manuals,['communication clarity logical organization research skills attention to detail'],Media & Publishing,Average paying
+36,Pharmacist,Dispense medications and provide pharmaceutical care to patients,['attention to detail communication patient care scientific knowledge ethical reasoning'],Healthcare,High paying
+37,Product Manager,Define product strategy and coordinate product development,['strategic thinking leadership communication market awareness decision making'],Technology,High paying
+38,Event Planner,Plan and coordinate events from conception to execution,['organization time management communication problem solving attention to detail'],Hospitality,Average paying
+39,Speech Therapist,Provide therapy services to patients with communication disorders,['patience communication assessment skills empathy problem solving'],Healthcare,Average paying
+40,Civil Engineer,Design and supervise construction of infrastructure projects,['problem solving mathematical reasoning safety awareness project management critical thinking'],Engineering,High paying
+41,SEO Specialist,Optimize websites to improve search engine rankings,['analytical thinking research skills attention to detail strategic thinking continuous learning'],Marketing,Average paying
+42,Physical Therapist,Provide rehabilitation services to patients with injuries,['empathy physical assessment communication patience problem solving'],Healthcare,High paying
+43,Investment Advisor,Provide financial advice and investment recommendations to clients,['analytical thinking communication risk assessment trust building financial acumen'],Finance,High paying
+44,Veterinarian,Provide medical care to animals and educate pet owners,['compassion problem solving communication scientific knowledge stress management'],Healthcare,High paying
+45,Real Estate Agent,Help clients buy sell and rent properties,['communication negotiation market knowledge relationship building persistence'],Real Estate,Average paying
+46,Chef,Prepare meals and manage kitchen operations,['creativity time management leadership attention to detail stress management'],Food Service,Average paying
+47,Translator,Translate written and spoken content between languages,['language proficiency cultural awareness attention to detail communication adaptability'],Professional Services,Average paying
+48,Architect,Design buildings and oversee construction projects,['creativity problem solving spatial reasoning communication project management'],Architecture,High paying
+49,Occupational Therapist,Help patients develop skills for daily living activities,['empathy problem solving communication assessment skills patience'],Healthcare,High paying
+50,Construction Manager,Oversee construction projects and manage construction teams,['leadership problem solving safety awareness time management communication'],Construction,High paying
+51,Fashion Designer,Design clothing and accessories for various markets,['creativity trend awareness visual skills innovation color theory'],Fashion,Average paying
+52,Massage Therapist,Provide therapeutic massage services to clients,['physical dexterity empathy communication client care attention to detail'],Healthcare,Average paying
+53,Insurance Agent,Sell insurance policies and provide customer service,['communication persuasion risk assessment trust building problem solving'],Insurance,Average paying
+54,Dental Hygienist,Provide dental cleaning and preventive care services,['attention to detail patient care communication manual dexterity safety awareness'],Healthcare,Average paying
+55,Personal Trainer,Provide fitness training and exercise guidance to clients,['motivation communication goal setting safety awareness adaptability'],Fitness & Recreation,Low paying
+56,Photographer,Capture and edit photographs for various purposes,['creativity visual composition attention to detail communication technical aptitude'],Creative Services,Average paying
+57,Landscaper,Design and maintain outdoor spaces and gardens,['creativity physical stamina attention to detail planning problem solving'],Landscaping,Low paying
+58,Electrician,Install and repair electrical systems in buildings,['problem solving safety awareness manual dexterity attention to detail logical reasoning'],Construction,Average paying
+59,Plumber,Install and repair plumbing systems and fixtures,['problem solving manual dexterity safety awareness attention to detail physical stamina'],Construction,Average paying
+60,Carpenter,Build and repair wooden structures and furniture,['manual dexterity problem solving attention to detail spatial reasoning craftsmanship'],Construction,Average paying
+61,Auto Mechanic,Diagnose and repair automotive problems,['problem solving logical reasoning manual dexterity attention to detail continuous learning'],Automotive,Average paying
+62,Hair Stylist,Provide hair cutting styling and coloring services,['creativity communication client relations manual dexterity trend awareness'],Personal Care,Low paying
+63,Dental Assistant,Assist dentists with patient care and office procedures,['attention to detail patient care communication organization multitasking'],Healthcare,Low paying
+64,Bartender,Prepare and serve alcoholic and non-alcoholic beverages,['communication multitasking customer service memory creativity'],Food Service,Low paying
+65,Security Guard,Monitor and protect property and people,['vigilance communication problem solving stress management physical fitness'],Security,Low paying
+66,Flight Attendant,Ensure passenger safety and comfort during flights,['communication safety awareness customer service stress management cultural sensitivity'],Aviation,Average paying
+67,Truck Driver,Transport goods safely and efficiently over long distances,['safety awareness time management navigation stress management physical stamina'],Transportation,Average paying
+68,Receptionist,Greet visitors and handle phone calls and appointments,['communication organization multitasking customer service attention to detail'],Business Services,Low paying
+69,Janitor,Maintain cleanliness and sanitation of buildings,['attention to detail time management physical stamina safety awareness work ethic'],Facilities Management,Low paying
+70,Cashier,Process customer transactions and provide customer service,['attention to detail communication customer service mathematical accuracy multitasking'],Retail,Low paying
+71,Waiter,Serve food and beverages to restaurant customers,['communication customer service multitasking memory physical stamina'],Food Service,Low paying
+72,Retail Sales Associate,Assist customers and process sales transactions,['communication customer service persuasion product knowledge patience'],Retail,Low paying
+73,Library Assistant,Help patrons find resources and maintain library organization,['research skills communication organization customer service attention to detail'],Education,Low paying
+74,Museum Curator,Manage museum collections and educational programs,['research skills communication organization cultural awareness project management'],Arts & Culture,Average paying
+75,Park Ranger,Protect natural resources and educate visitors about parks,['communication environmental awareness safety skills leadership physical fitness'],Government,Average paying
+76,Fire Fighter,Respond to emergency situations and provide fire suppression,['physical fitness teamwork stress management problem solving safety awareness'],Public Safety,Average paying
+77,Police Officer,Enforce laws and maintain public safety,['communication problem solving physical fitness ethical reasoning stress management'],Public Safety,Average paying
+78,Paramedic,Provide emergency medical care and transport patients,['quick decision making stress management communication empathy physical fitness'],Healthcare,Average paying
+79,Social Worker,Provide support services to individuals and families,['empathy communication problem solving advocacy skills stress management'],Social Services,Average paying
+80,Psychologist,Provide mental health assessment and therapy services,['active listening empathy analytical thinking communication ethical reasoning'],Healthcare,High paying
+81,Radiologic Technologist,Perform medical imaging procedures for diagnosis,['attention to detail safety awareness communication technical aptitude patient care'],Healthcare,Average paying
+82,Medical Assistant,Provide clinical and administrative support in healthcare,['multitasking communication organization attention to detail empathy'],Healthcare,Low paying
+83,Laboratory Technician,Perform laboratory tests and analyze samples,['attention to detail safety awareness analytical thinking organization technical aptitude'],Healthcare,Average paying
+84,Pharmacist Technician,Assist pharmacists with medication preparation and inventory,['attention to detail organization communication customer service mathematical accuracy'],Healthcare,Low paying
+85,Optician,Fit and dispense eyeglasses and contact lenses,['customer service attention to detail communication manual dexterity problem solving'],Healthcare,Average paying
+86,Respiratory Therapist,Provide respiratory care to patients with breathing disorders,['patient care communication assessment skills problem solving stress management'],Healthcare,Average paying
+87,Dietitian,Provide nutrition counseling and meal planning services,['communication analytical thinking empathy research skills health awareness'],Healthcare,Average paying
+88,Environmental Scientist,Study environmental problems and develop solutions,['research skills analytical thinking problem solving communication environmental awareness'],Environmental Services,High paying
+89,Geologist,Study earth materials and processes for various applications,['research skills analytical thinking problem solving physical stamina attention to detail'],Mining & Resources,High paying
+90,Meteorologist,Study weather patterns and provide weather forecasts,['analytical thinking pattern recognition communication data interpretation mathematical reasoning'],Science & Research,High paying
+91,Astronomer,Study celestial objects and phenomena in space,['research skills mathematical reasoning pattern recognition analytical thinking patience'],Science & Research,High paying
+92,Biologist,Study living organisms and biological processes,['research skills analytical thinking problem solving attention to detail scientific writing'],Science & Research,High paying
+93,Chemist,Conduct chemical research and analysis for various applications,['analytical thinking safety awareness problem solving attention to detail research skills'],Science & Research,High paying
+94,Physicist,Study matter energy and their interactions,['mathematical reasoning analytical thinking problem solving research skills abstract thinking'],Science & Research,High paying
+95,Mathematician,Solve mathematical problems and develop mathematical theories,['logical reasoning abstract thinking problem solving pattern recognition analytical thinking'],Science & Research,High paying
+96,Statistician,Analyze data and develop statistical models,['analytical thinking mathematical reasoning pattern recognition attention to detail research skills'],Science & Research,High paying
+97,Economist,Study economic trends and analyze economic data,['analytical thinking research skills critical thinking mathematical reasoning communication'],Economics,High paying
+98,Political Scientist,Study political systems and analyze political behavior,['research skills analytical thinking critical thinking communication writing skills'],Social Sciences,High paying
+99,Sociologist,Study human society and social behavior,['research skills analytical thinking communication cultural awareness critical thinking'],Social Sciences,High paying
+100,Anthropologist,Study human culture and social organization,['research skills cultural awareness communication analytical thinking adaptability'],Social Sciences,High paying
+101,Historian,Research and analyze historical events and trends,['research skills analytical thinking writing skills critical thinking attention to detail'],Education,Average paying
+102,Journalist,Research and report news stories for various media,['research skills communication writing skills curiosity time management'],Media & Publishing,Average paying
+103,Editor,Review and edit written content for publication,['attention to detail communication writing skills critical thinking organization'],Media & Publishing,Average paying
+104,Public Relations Specialist,Manage public image and media relations for organizations,['communication strategic thinking relationship building crisis management creativity'],Marketing,Average paying
+105,Advertising Executive,Develop and implement advertising campaigns,['creative thinking strategic planning communication leadership project management'],Advertising,High paying
+106,Art Director,Oversee visual aspects of advertising and media projects,['creative leadership visual communication project management team management'],Advertising,High paying
+107,Copywriter,Write persuasive content for advertising and marketing,['creative writing communication persuasion brand awareness research skills'],Advertising,Average paying
+108,Film Director,Direct actors and crew in film and video production,['leadership creative vision communication project management decision making'],Entertainment,High paying
+109,Screenwriter,Write scripts for films television and other media,['creative writing storytelling research skills character development communication'],Entertainment,Average paying
+110,Actor,Perform roles in theatrical film and television productions,['creativity memorization emotional expression communication adaptability'],Entertainment,Average paying
+111,Musician,Perform music for live audiences and recordings,['creativity discipline performance skills communication collaboration'],Entertainment,Average paying
+112,Sound Engineer,Operate audio equipment for recordings and live events,['technical aptitude attention to detail problem solving communication creativity'],Entertainment,Average paying
+113,Video Game Designer,Design gameplay mechanics and overall game experience,['creative problem solving systems thinking user experience design innovation logical reasoning'],Gaming,High paying
+114,Animation Artist,Create animated sequences for films games and media,['creativity visual storytelling attention to detail patience technical aptitude'],Entertainment,Average paying
+115,Comic Book Artist,Create artwork and illustrations for comic books,['creativity visual storytelling character development attention to detail time management'],Entertainment,Average paying
+116,Fashion Model,Model clothing and accessories for fashion shows and photography,['physical fitness professionalism adaptability communication self-discipline'],Fashion,Average paying
+117,Dance Instructor,Teach dance techniques and choreography to students,['physical coordination communication teaching skills creativity patience'],Arts & Culture,Low paying
+118,Yoga Instructor,Lead yoga classes and provide instruction in yoga practices,['physical fitness communication teaching skills mindfulness empathy'],Fitness & Recreation,Low paying
+119,Sports Coach,Train athletes and develop game strategies,['leadership communication motivation strategic thinking physical fitness'],Sports,Average paying
+120,Athletic Trainer,Provide injury prevention and treatment for athletes,['physical assessment communication problem solving safety awareness empathy'],Sports,Average paying
+121,Recreation Coordinator,Plan and organize recreational activities and programs,['organization communication leadership time management creativity'],Recreation,Average paying
+122,Camp Counselor,Supervise and lead activities for children at camps,['communication patience leadership safety awareness creativity'],Recreation,Low paying
+123,Cruise Director,Organize entertainment and activities for cruise passengers,['communication leadership entertainment skills organization customer service'],Hospitality,Average paying
+124,Travel Agent,Plan and book travel arrangements for clients,['customer service organization communication research skills problem solving'],Travel & Tourism,Average paying
+125,Hotel Manager,Oversee hotel operations and ensure guest satisfaction,['leadership customer service problem solving financial management communication'],Hospitality,Average paying
+126,Restaurant Manager,Manage restaurant operations and staff,['leadership communication customer service problem solving time management'],Food Service,Average paying
+127,Catering Manager,Plan and coordinate catering events and services,['organization leadership communication time management customer service'],Food Service,Average paying
+128,Wedding Planner,Plan and coordinate wedding ceremonies and receptions,['organization communication attention to detail time management customer service'],Event Planning,Average paying
+129,Florist,Design and arrange flowers for various occasions,['creativity color theory customer service manual dexterity attention to detail'],Retail,Low paying
+130,Baker,Bake bread pastries and other baked goods,['attention to detail time management creativity safety awareness quality control'],Food Service,Low paying
+131,Butcher,Cut and prepare meat products for sale,['manual dexterity safety awareness customer service attention to detail product knowledge'],Food Service,Low paying
+132,Farmer,Grow crops and raise livestock for food production,['physical stamina problem solving environmental awareness time management planning'],Agriculture,Low paying
+133,Fisherman,Catch fish and other seafood for commercial purposes,['physical stamina safety awareness navigation problem solving environmental awareness'],Agriculture,Low paying
+134,Logger,Harvest timber from forests for commercial use,['physical stamina safety awareness environmental awareness equipment operation teamwork'],Forestry,Average paying
+135,Miner,Extract minerals and resources from underground mines,['physical stamina safety awareness attention to detail teamwork problem solving'],Mining & Resources,Average paying
+136,Oil Rig Worker,Operate equipment on offshore oil drilling platforms,['physical stamina safety awareness teamwork problem solving stress management'],Oil & Gas,High paying
+137,Solar Panel Installer,Install and maintain solar energy systems,['safety awareness manual dexterity problem solving physical fitness environmental awareness'],Renewable Energy,Average paying
+138,Wind Turbine Technician,Maintain and repair wind energy equipment,['safety awareness physical fitness problem solving manual dexterity environmental awareness'],Renewable Energy,Average paying
+139,HVAC Technician,Install and repair heating ventilation and air conditioning systems,['problem solving manual dexterity safety awareness attention to detail customer service'],Construction,Average paying
+140,Locksmith,Install and repair locks and security systems,['problem solving manual dexterity attention to detail customer service security awareness'],Security,Average paying
+141,Watchmaker,Repair and maintain timepieces and clocks,['manual dexterity attention to detail patience problem solving precision'],Specialized Services,Average paying
+142,Jeweler,Design and repair jewelry and precious items,['manual dexterity creativity attention to detail customer service visual skills'],Retail,Average paying
+143,Tailor,Alter and create custom clothing and garments,['manual dexterity attention to detail customer service problem solving creativity'],Personal Services,Low paying
+144,Cobbler,Repair and restore shoes and leather goods,['manual dexterity problem solving attention to detail customer service craftsmanship'],Personal Services,Low paying
+145,Upholsterer,Repair and reupholster furniture and cushions,['manual dexterity problem solving attention to detail customer service creativity'],Personal Services,Low paying
+146,Glass Blower,Create decorative and functional glass objects,['manual dexterity creativity physical stamina safety awareness artistic skills'],Arts & Crafts,Average paying
+147,Potter,Create ceramic pottery and decorative items,['creativity manual dexterity attention to detail patience artistic skills'],Arts & Crafts,Low paying
+148,Blacksmith,Shape and forge metal objects using traditional techniques,['physical stamina manual dexterity safety awareness problem solving craftsmanship'],Arts & Crafts,Average paying
+149,Welder,Join metal parts using various welding techniques,['manual dexterity safety awareness attention to detail problem solving physical stamina'],Manufacturing,Average paying
+150,Machinist,Operate machine tools to create precision metal parts,['attention to detail manual dexterity problem solving mathematical reasoning safety awareness'],Manufacturing,Average paying
+151,Tool and Die Maker,Create tools dies and fixtures for manufacturing,['precision manual dexterity problem solving mathematical reasoning attention to detail'],Manufacturing,High paying
+152,Quality Control Inspector,Inspect products to ensure they meet quality standards,['attention to detail analytical thinking problem solving communication organization'],Manufacturing,Average paying
+153,Assembly Line Worker,Assemble products on manufacturing production lines,['manual dexterity attention to detail repetitive task management teamwork quality focus'],Manufacturing,Low paying
+154,Forklift Operator,Operate forklifts to move materials in warehouses,['safety awareness spatial awareness attention to detail physical coordination responsibility'],Warehousing,Low paying
+155,Warehouse Manager,Oversee warehouse operations and inventory management,['leadership organization problem solving safety awareness communication'],Warehousing,Average paying
+156,Shipping Clerk,Prepare and process shipments for delivery,['attention to detail organization time management communication problem solving'],Logistics,Low paying
+157,Receiving Clerk,Process incoming shipments and inventory,['attention to detail organization physical stamina communication problem solving'],Logistics,Low paying
+158,Inventory Specialist,Track and manage inventory levels and stock,['attention to detail organization analytical thinking problem solving communication'],Logistics,Average paying
+159,Procurement Specialist,Purchase goods and services for organizations,['negotiation analytical thinking communication relationship building decision making'],Business Services,Average paying
+160,Logistics Coordinator,Coordinate transportation and distribution of goods,['organization communication problem solving time management analytical thinking'],Logistics,Average paying
+161,Import Export Specialist,Manage international trade and shipping documentation,['attention to detail organization communication cultural awareness problem solving'],International Trade,Average paying
+162,Customs Broker,Facilitate customs clearance for international shipments,['attention to detail communication problem solving regulatory knowledge relationship building'],International Trade,Average paying
+163,Air Traffic Controller,Direct aircraft movement and ensure flight safety,['attention to detail multitasking communication stress management decision making'],Aviation,High paying
+164,Ship Captain,Navigate and command ships and vessels,['leadership navigation skills decision making safety awareness communication'],Maritime,High paying
+165,Train Conductor,Operate trains and ensure passenger safety,['safety awareness communication attention to detail responsibility problem solving'],Transportation,Average paying
+166,Bus Driver,Transport passengers safely on scheduled routes,['safety awareness customer service communication patience responsibility'],Transportation,Low paying
+167,Taxi Driver,Provide transportation services to passengers,['customer service communication navigation problem solving safety awareness'],Transportation,Low paying
+168,Delivery Driver,Deliver packages and goods to customers,['time management customer service navigation problem solving physical stamina'],Transportation,Low paying
+169,Mail Carrier,Deliver mail and packages to residential and business addresses,['physical stamina attention to detail customer service navigation time management'],Postal Services,Average paying
+170,Courier,Provide fast delivery services for documents and packages,['time management problem solving customer service navigation physical stamina'],Transportation,Low paying
+171,Moving Company Worker,Pack and transport household and office items,['physical stamina teamwork customer service problem solving organization'],Moving Services,Low paying
+172,Landscaping Crew Leader,Supervise landscaping teams and coordinate projects,['leadership communication safety awareness physical stamina problem solving'],Landscaping,Average paying
+173,Groundskeeper,Maintain grounds and outdoor spaces for facilities,['physical stamina attention to detail environmental awareness safety awareness problem solving'],Landscaping,Low paying
+174,Golf Course Maintenance,Maintain golf courses and playing surfaces,['attention to detail physical stamina environmental awareness equipment operation problem solving'],Recreation,Low paying
+175,Pool Maintenance Technician,Clean and maintain swimming pools and spas,['safety awareness attention to detail customer service problem solving chemical knowledge'],Maintenance Services,Low paying
+176,Pest Control Technician,Identify and eliminate pest infestations,['problem solving safety awareness customer service attention to detail environmental awareness'],Pest Control,Average paying
+177,House Cleaner,Provide residential cleaning services,['attention to detail time management physical stamina customer service reliability'],Cleaning Services,Low paying
+178,Window Cleaner,Clean windows and glass surfaces on buildings,['safety awareness physical fitness attention to detail problem solving customer service'],Cleaning Services,Low paying
+179,Crime Scene Investigator,Collect and analyze evidence from crime scenes,['attention to detail analytical thinking problem solving communication ethical reasoning'],Law Enforcement,High paying
+180,Private Investigator,Conduct investigations for legal and personal matters,['research skills problem solving communication discretion persistence'],Legal Services,Average paying
+181,Forensic Accountant,Investigate financial crimes and fraud,['analytical thinking attention to detail problem solving ethical reasoning communication'],Legal Services,High paying
+182,Court Reporter,Create written records of legal proceedings,['attention to detail listening skills accuracy time management concentration'],Legal Services,Average paying
+183,Bailiff,Maintain order in courtrooms and provide security,['communication physical fitness authority safety awareness conflict resolution'],Legal Services,Average paying
+184,Process Server,Deliver legal documents to individuals and businesses,['communication persistence problem solving navigation customer service'],Legal Services,Low paying
+185,Notary Public,Verify identities and witness document signings,['attention to detail communication ethical reasoning customer service organization'],Legal Services,Low paying
+186,Tax Preparer,Prepare tax returns for individuals and businesses,['attention to detail mathematical accuracy customer service problem solving organization'],Financial Services,Low paying
+187,Bookkeeper,Maintain financial records for small businesses,['attention to detail organization mathematical accuracy communication reliability'],Financial Services,Average paying
+188,Payroll Clerk,Process employee payroll and maintain payroll records,['attention to detail mathematical accuracy discretion organization time management'],Human Resources,Average paying
+189,Benefits Administrator,Manage employee benefits programs and enrollment,['communication organization attention to detail customer service problem solving'],Human Resources,Average paying
+190,Training Coordinator,Develop and coordinate employee training programs,['communication organization presentation skills problem solving leadership'],Human Resources,Average paying
+191,Talent Acquisition Specialist,Recruit and hire qualified candidates for positions,['communication relationship building assessment skills persuasion organization'],Human Resources,Average paying
+192,Compensation Analyst,Analyze and develop compensation structures and policies,['analytical thinking mathematical reasoning research skills communication attention to detail'],Human Resources,High paying
+193,Employee Relations Specialist,Handle employee concerns and workplace issues,['communication conflict resolution problem solving discretion empathy'],Human Resources,Average paying
+194,Safety Coordinator,Develop and implement workplace safety programs,['safety awareness communication training skills problem solving leadership'],Safety & Compliance,Average paying
+195,Environmental Compliance Specialist,Ensure compliance with environmental regulations,['environmental awareness attention to detail communication problem solving analytical thinking'],Environmental Services,Average paying
+196,Regulatory Affairs Specialist,Ensure compliance with industry regulations,['attention to detail communication analytical thinking problem solving organization'],Regulatory Affairs,Average paying
+197,Risk Management Analyst,Identify and assess business risks and mitigation strategies,['analytical thinking problem solving communication research skills critical thinking'],Risk Management,High paying
+198,Internal Auditor,Examine financial records and internal controls,['analytical thinking attention to detail problem solving communication ethical reasoning'],Finance,High paying
+199,External Auditor,Conduct independent audits of organizations,['analytical thinking attention to detail communication ethical reasoning critical thinking'],Finance,High paying
+200,Compliance Officer,Ensure organizational compliance with laws and regulations,['attention to detail communication problem solving ethical reasoning analytical thinking'],Regulatory Affairs,High paying
+201,Ethics Officer,Develop and oversee organizational ethics programs,['ethical reasoning communication leadership problem solving training skills'],Corporate Governance,High paying
+202,Chief Executive Officer,Lead organizational strategy and overall operations,['strategic thinking leadership decision making communication visionary thinking'],Executive Leadership,High paying
+203,Chief Financial Officer,Oversee financial operations and strategy,['financial acumen strategic thinking leadership risk management decision making'],Executive Leadership,High paying
+204,Chief Technology Officer,Lead technology strategy and innovation,['strategic thinking innovation leadership technical vision team building'],Executive Leadership,High paying
+205,Chief Marketing Officer,Develop and execute marketing strategy,['strategic thinking brand leadership communication market awareness innovation'],Executive Leadership,High paying
+206,Chief Human Resources Officer,Lead human resources strategy and operations,['strategic thinking leadership employee relations organizational development communication'],Executive Leadership,High paying
+207,Chief Operating Officer,Oversee daily operations and process improvement,['operations management leadership strategic thinking process improvement decision making'],Executive Leadership,High paying
+208,Vice President of Sales,Lead sales strategy and team management,['sales leadership strategic thinking team management revenue growth communication'],Executive Leadership,High paying
+209,Vice President of Engineering,Lead engineering teams and technical strategy,['technical leadership strategic thinking team management innovation problem solving'],Executive Leadership,High paying
+210,Director of Product Management,Oversee product strategy and development,['strategic thinking market awareness leadership product vision decision making'],Executive Leadership,High paying
+211,Beekeeper,Manage bee colonies and harvest honey products,['animal husbandry seasonal planning protective equipment use honey processing agricultural knowledge'],Agriculture,Low paying
+212,Chocolatier,Create artisanal chocolates and confections,['culinary arts temperature control flavor pairing creative presentation food safety'],Food Production,Average paying
+213,Cartographer,Create and update maps using geographic data,['geographic information systems spatial analysis attention to detail technical drawing survey data'],Mapping & Surveying,Average paying
+214,Sommelier,Evaluate and recommend wines and beverages,['wine knowledge taste analysis customer service beverage pairing sensory skills'],Hospitality,Average paying
+215,Auction House Appraiser,Evaluate and authenticate valuable items for auction,['art history valuation skills authentication research attention to detail'],Art & Antiques,Average paying
+216,Perfumer,Create fragrances and scent compositions,['olfactory skills chemistry knowledge creative blending sensory analysis market trends'],Cosmetics,Average paying
+217,Gemologist,Examine and grade precious stones and jewelry,['gemstone knowledge microscopy grading standards attention to detail certification'],Jewelry,Average paying
+218,Lighthouse Keeper,Maintain lighthouse operations and maritime safety,['maritime safety equipment maintenance weather monitoring isolation tolerance emergency response'],Maritime,Average paying
+219,Blackjack Dealer,Deal cards and manage casino table games,['mathematics quick calculation customer service game rules hand dexterity'],Gaming,Low paying
+220,Rodeo Clown,Entertain crowds and protect riders at rodeo events,['physical agility entertainment skills animal behavior safety skills performance'],Entertainment,Low paying
+221,Cheese Maker,Produce artisanal cheeses and dairy products,['fermentation science quality control sanitation temperature monitoring aging processes'],Food Production,Average paying
+222,Crop Duster Pilot,Spray agricultural fields from aircraft,['aviation skills agricultural knowledge weather assessment precision flying chemical safety'],Agriculture,High paying
+223,Ice Road Trucker,Transport goods over frozen waterways,['cold weather driving ice conditions assessment vehicle maintenance isolation tolerance risk management'],Transportation,High paying
+224,Bomb Disposal Expert,Safely disarm explosive devices,['explosives knowledge steady hands risk assessment problem solving attention to detail'],Public Safety,High paying
+225,Funeral Director,Coordinate funeral services and support grieving families,['grief counseling event planning empathy communication organization'],Funeral Services,Average paying
+226,Marine Biologist,Study ocean ecosystems and marine life populations,['research skills environmental science diving certification data analysis scientific writing'],Marine Science,High paying
+227,Robotics Engineer,Design and program automated systems and robots,['programming mechanical design systems integration problem solving innovation'],Robotics,High paying
+228,Blockchain Developer,Create decentralized applications and cryptocurrency systems,['programming cryptography distributed systems security protocols innovation'],Technology,High paying
+229,Sustainability Consultant,Advise organizations on environmental and social responsibility,['environmental science strategic planning data analysis communication stakeholder management'],Environmental Services,High paying
+230,Voice Actor,Provide voice talent for animation commercials and media,['voice control acting skills audio recording character development adaptability'],Entertainment,Average paying
+231,Patent Examiner,Review patent applications for government agencies,['technical analysis legal research attention to detail critical thinking report writing'],Government,Average paying
+232,Archivist,Preserve and organize historical documents and records,['historical research organization digital preservation information management attention to detail'],Cultural Heritage,Average paying
+233,Medical Illustrator,Create detailed anatomical drawings and medical graphics,['medical knowledge artistic skills digital illustration attention to detail scientific accuracy'],Healthcare,Average paying
+234,Forensic Psychologist,Evaluate criminal behavior and provide expert testimony,['psychological assessment criminal justice knowledge report writing ethical reasoning communication'],Legal Services,High paying
+235,Wind Farm Manager,Oversee renewable energy operations and maintenance,['project management renewable energy safety protocols team leadership environmental awareness'],Renewable Energy,High paying
+236,Quantum Computing Researcher,Develop quantum algorithms and computing systems,['quantum physics programming mathematical modeling research skills innovation'],Science & Research,High paying
+237,Ethical Hacker,Test cybersecurity systems by identifying vulnerabilities,['cybersecurity programming network security problem solving ethical reasoning'],Technology,High paying
+238,Disaster Recovery Specialist,Plan and coordinate emergency response procedures,['emergency management risk assessment communication leadership crisis management'],Emergency Services,Average paying
+239,Viticulturist,Grow and harvest grapes for wine production,['agricultural science soil management weather analysis quality control seasonal planning'],Agriculture,Average paying
+240,Paleontologist,Study fossilized remains of ancient organisms,['geological knowledge research skills excavation techniques scientific writing attention to detail'],Science & Research,High paying
+241,Cryptographer,Develop secure communication systems and encryption,['mathematics programming security protocols logical reasoning problem solving'],Technology,High paying
+242,Biomechanical Engineer,Design medical devices and prosthetics,['engineering principles medical knowledge cad design problem solving innovation'],Engineering,High paying
+243,Food Scientist,Research food safety nutrition and product development,['chemistry biology food safety regulations research skills innovation'],Food Science,High paying
+244,Sleep Technologist,Monitor and analyze sleep patterns for medical diagnosis,['medical technology patient care data analysis attention to detail technical equipment'],Healthcare,Average paying
+245,Drone Pilot,Operate unmanned aerial vehicles for various applications,['aviation regulations remote piloting weather assessment safety protocols technical skills'],Aviation,Average paying
+246,Biostatistician,Analyze biological and health data for research,['statistics mathematical modeling data analysis programming research skills'],Healthcare,High paying
+247,Genealogist,Research family histories and ancestry records,['historical research database management communication attention to detail documentation'],Professional Services,Average paying
+248,Animal Behaviorist,Study and modify animal behavior patterns,['animal psychology research skills observation patience problem solving'],Animal Sciences,Average paying
+249,Aquaculture Farmer,Raise fish and aquatic organisms for commercial purposes,['aquatic biology water quality management equipment operation problem solving environmental awareness'],Agriculture,Average paying
+250,Holographic Designer,Create three dimensional visual displays and experiences,['3d modeling programming optical physics creative vision technical innovation'],Technology,High paying
+251,Space Mission Planner,Design and coordinate space exploration missions,['aerospace engineering project management systems analysis risk assessment strategic planning'],Aerospace,High paying
+252,Neuropsychologist,Study brain function and treat neurological disorders,['neuroscience psychology assessment skills research methods clinical reasoning'],Healthcare,High paying
+253,Atmospheric Scientist,Study weather patterns and climate change,['meteorology data analysis research skills environmental science mathematical modeling'],Environmental Sciences,High paying
+254,Biomedical Engineer,Design medical equipment and biological systems,['engineering biology medical devices problem solving innovation'],Engineering,High paying
+255,Cryptocurrency Analyst,Analyze digital currency markets and trends,['financial analysis blockchain technology market research data interpretation risk assessment'],Finance,High paying
+256,Virtual Reality Developer,Create immersive digital experiences and applications,['3d programming user experience design spatial design innovation technical skills'],Technology,High paying
+257,Forensic Anthropologist,Analyze human remains for legal investigations,['anatomy archaeological methods legal procedures research skills attention to detail'],Forensic Science,High paying
+258,Artificial Intelligence Trainer,Develop and train machine learning models,['machine learning programming data science algorithm development problem solving'],Technology,High paying
+259,Organ Transplant Coordinator,Facilitate organ donation and transplant procedures,['medical knowledge communication ethical reasoning time management crisis management'],Healthcare,High paying
+260,Nanotechnology Engineer,Design and create materials at the molecular level,['materials science physics chemistry innovation problem solving'],Engineering,High paying
+261,Esports Coach,Train professional video game players and teams,['gaming strategy team leadership communication performance analysis motivation'],Gaming,Average paying
+262,Podcast Producer,Create and manage audio content for digital platforms,['audio production storytelling project management communication creative direction'],Media & Publishing,Average paying
+263,Renewable Energy Analyst,Evaluate and optimize clean energy systems,['energy systems analysis data interpretation environmental science financial modeling market research'],Renewable Energy,High paying
+264,Genetic Counselor,Provide guidance on hereditary conditions and genetic testing,['genetics medical knowledge counseling skills communication empathy'],Healthcare,High paying
+265,Computational Biologist,Use computer modeling to solve biological problems,['biology programming data analysis mathematical modeling research skills'],Science & Research,High paying
+266,User Interface Designer,Create intuitive digital interfaces and experiences,['design principles user psychology prototyping software skills creative problem solving'],Technology,Average paying
+267,Seismologist,Study earthquakes and earth movements,['geology data analysis research skills mathematical modeling fieldwork'],Earth Sciences,High paying
+268,Food Safety Inspector,Ensure restaurants and food facilities meet health standards,['food safety regulations attention to detail communication problem solving report writing'],Government,Average paying
+269,Organ Procurement Coordinator,Manage the process of organ donation and recovery,['medical knowledge communication time management ethical reasoning crisis management'],Healthcare,High paying
+270,Renewable Energy Technician,Install and maintain solar wind and other clean energy systems,['electrical skills safety protocols problem solving environmental awareness equipment maintenance'],Renewable Energy,Average paying
+271,Cybersecurity Consultant,Advise organizations on digital security strategies,['cybersecurity risk assessment communication strategic planning problem solving'],Technology,High paying
+272,Wearable Technology Designer,Create smart devices and health monitoring equipment,['electronics design programming user experience innovation problem solving'],Technology,High paying
+273,Offshore Wind Specialist,Design and maintain ocean based wind energy systems,['marine engineering renewable energy safety protocols project management environmental awareness'],Renewable Energy,High paying
+274,Cognitive Behavioral Therapist,Provide specialized mental health treatment,['psychology therapeutic techniques active listening empathy problem solving'],Healthcare,High paying
+275,Synthetic Biology Engineer,Design and create artificial biological systems,['biology engineering programming innovation problem solving'],Biotechnology,High paying
+276,Digital Forensics Investigator,Recover and analyze digital evidence for legal cases,['computer forensics legal procedures attention to detail problem solving technical analysis'],Law Enforcement,High paying
+277,Climate Change Analyst,Study environmental data and climate patterns,['environmental science data analysis research skills mathematical modeling policy analysis'],Environmental Services,High paying
+278,Bioethicist,Advise on ethical issues in medicine and biology,['ethics philosophy critical thinking communication medical knowledge'],Healthcare,High paying
+279,Space Debris Tracker,Monitor and predict movements of orbital debris,['orbital mechanics mathematical modeling data analysis problem solving space science'],Aerospace,High paying
+280,Precision Agriculture Specialist,Use technology to optimize crop production,['agricultural science gps technology data analysis problem solving innovation'],Agriculture,High paying
+281,Disaster Response Coordinator,Organize emergency relief efforts and resources,['emergency management leadership communication crisis management resource allocation'],Emergency Services,Average paying
+282,Molecular Gastronomy Chef,Create innovative culinary experiences using science,['culinary arts chemistry innovation creativity problem solving'],Food Service,High paying
+283,Augmented Reality Developer,Create applications that blend digital and physical worlds,['programming 3d modeling user experience innovation problem solving'],Technology,High paying
+284,Marine Archaeologist,Study underwater historical sites and artifacts,['archaeology diving skills historical research attention to detail documentation'],Cultural Heritage,Average paying
+285,Bioinformatics Specialist,Analyze biological data using computational methods,['biology programming data analysis mathematical modeling research skills'],Science & Research,High paying
+286,Sustainable Architecture Designer,Design environmentally friendly buildings and structures,['architecture environmental science energy systems creative design project management'],Architecture,High paying
+287,Telepresence Robot Operator,Control remote robots for various applications,['technical skills problem solving communication spatial awareness attention to detail'],Technology,Average paying
+288,Coral Reef Restoration Specialist,Rehabilitate damaged marine ecosystems,['marine biology environmental science diving skills project management problem solving'],Environmental Services,High paying
+289,Space Weather Forecaster,Predict solar activity and its effects on Earth,['astronomy data analysis mathematical modeling research skills communication'],Space Science,High paying
+290,Bioprinting Technician,Operate 3D printers that create biological tissues,['biology 3d printing technology medical knowledge attention to detail innovation'],Biotechnology,High paying
+291,Smart City Planner,Design technology integrated urban environments,['urban planning technology systems analysis innovation strategic thinking'],Urban Development,High paying
+292,Neuroengineering Researcher,Develop brain computer interfaces and neural devices,['neuroscience engineering programming innovation problem solving'],Science & Research,High paying
+293,Cryptocurrency Mining Coordinator,Manage digital currency mining operations,['blockchain technology computer hardware energy management problem solving technical skills'],Technology,High paying
+294,Vertical Farm Manager,Oversee indoor agricultural production systems,['agricultural science hydroponics technology management environmental control problem solving'],Agriculture,High paying
+295,Ocean Thermal Energy Specialist,Harness temperature differences in oceans for power,['marine engineering renewable energy thermodynamics problem solving innovation'],Renewable Energy,High paying
+296,Autonomous Vehicle Tester,Test and validate self driving car systems,['automotive technology safety protocols problem solving attention to detail data analysis'],Automotive,High paying
+297,Cellular Agriculture Scientist,Develop lab grown meat and dairy products,['biology food science innovation problem solving research skills'],Food Science,High paying
+298,Digital Twin Engineer,Create virtual replicas of physical systems,['engineering programming data analysis systems modeling innovation'],Technology,High paying
+299,Space Elevator Engineer,Design transportation systems between Earth and space,['aerospace engineering materials science physics innovation problem solving'],Aerospace,High paying
+300,Quantum Cryptography Specialist,Develop ultra secure communication systems using quantum mechanics,['quantum physics cryptography programming security protocols innovation'],Technology,High paying
+301,Atmospheric River Forecaster,Predict extreme weather patterns and flooding,['meteorology data analysis mathematical modeling research skills communication'],Weather Services,High paying
+302,Biocement Engineer,Develop self healing concrete and construction materials,['materials science biology engineering innovation problem solving'],Construction,High paying
+303,Neural Dust Researcher,Create wireless brain monitoring systems,['neuroscience electronics miniaturization innovation problem solving'],Science & Research,High paying
+304,Swarm Robotics Coordinator,Manage groups of autonomous robots working together,['robotics programming systems coordination problem solving innovation'],Technology,High paying
+305,Atmospheric Carbon Capture Specialist,Design systems to remove CO2 from the atmosphere,['environmental engineering chemistry innovation problem solving climate science'],Environmental Services,High paying
+306,Quantum Sensor Developer,Create ultra precise measurement instruments,['quantum physics engineering innovation problem solving technical skills'],Technology,High paying
+307,Synthetic Spider Silk Producer,Manufacture artificial spider silk for various applications,['biology materials science manufacturing innovation problem solving'],Biotechnology,High paying
+308,Asteroid Mining Planner,Design systems for extracting resources from asteroids,['aerospace engineering mining engineering space science innovation strategic planning'],Aerospace,High paying
+309,Metamaterial Engineer,Design materials with properties not found in nature,['materials science physics engineering innovation problem solving'],Engineering,High paying
+310,Biocomputer Programmer,Develop computing systems using biological components,['biology programming innovation problem solving technical skills'],Biotechnology,High paying
+311,Magnetic Levitation Engineer,Design transportation systems using magnetic forces,['electrical engineering physics transportation innovation problem solving'],Transportation,High paying
+312,Genetically Modified Organism Regulator,Oversee safety of modified organisms,['biology regulatory knowledge risk assessment communication ethical reasoning'],Government,High paying
+313,Fusion Energy Researcher,Develop clean energy through nuclear fusion,['nuclear physics engineering research skills innovation problem solving'],Energy Research,High paying
+314,Bioluminescent Lighting Designer,Create sustainable lighting using living organisms,['biology lighting design innovation environmental science problem solving'],Biotechnology,High paying
+315,Hypersonic Flight Engineer,Design aircraft capable of extreme speeds,['aerospace engineering aerodynamics innovation problem solving technical skills'],Aerospace,High paying
+316,Microbiome Analyst,Study beneficial bacteria in humans and environment,['microbiology research skills data analysis laboratory techniques innovation'],Science & Research,High paying
+317,Gravity Wave Detector Operator,Monitor cosmic gravitational disturbances,['physics data analysis technical skills attention to detail research skills'],Science & Research,High paying
+318,Programmable Matter Engineer,Design materials that can change shape and properties,['materials science programming physics innovation problem solving'],Engineering,High paying
+319,Exoplanet Hunter,Search for planets outside our solar system,['astronomy data analysis research skills mathematical modeling attention to detail'],Space Science,High paying
+320,Biorefinery Process Engineer,Convert biological waste into useful products,['chemical engineering biology environmental science innovation problem solving'],Biotechnology,High paying
+321,Telepathic Interface Developer,Create brain to brain communication systems,['neuroscience programming innovation problem solving technical skills'],Science & Research,High paying
+322,Molecular Assembler Technician,Build products atom by atom using nanotechnology,['nanotechnology precision manufacturing technical skills innovation problem solving'],Manufacturing,High paying
+323,Terraforming Specialist,Design systems to make planets habitable for humans,['planetary science environmental engineering innovation strategic planning problem solving'],Aerospace,High paying
+324,Time Crystal Researcher,Study materials with repeating patterns in time,['quantum physics research skills mathematical modeling innovation problem solving'],Science & Research,High paying
+325,Bioharmonic Therapist,Use biological frequencies to treat medical conditions,['biology medical knowledge therapeutic techniques innovation problem solving'],Healthcare,High paying
+326,Music Therapist,Use music interventions to address physical emotional and social needs,['empathy musical skills therapeutic techniques active listening patient care'],Healthcare,Average paying
+327,Digital Archivist,Preserve and organize digital cultural heritage materials,['information science digital preservation metadata standards organization technical skills'],Cultural Heritage,Average paying
+328,Ethical AI Auditor,Evaluate artificial intelligence systems for bias and fairness,['machine learning ethics critical thinking problem solving communication'],Technology,High paying
+329,Wilderness Guide,Lead outdoor expeditions and teach survival skills,['outdoor skills safety awareness leadership navigation physical fitness'],Recreation,Average paying
+330,Marine Salvage Diver,Recover sunken vessels and underwater equipment,['deep sea diving technical skills problem solving risk assessment physical fitness'],Maritime,High paying
+331,Flavor Chemist,Develop artificial and natural flavors for food products,['chemistry sensory analysis innovation research skills quality control'],Food Science,High paying
+332,Pet Grief Counselor,Support families through loss of companion animals,['counseling skills empathy communication animal behavior understanding grief support'],Animal Services,Average paying
+333,Virtual Interior Designer,Create 3D interior spaces for online clients,['interior design 3d modeling software skills creativity communication'],Design Services,Average paying
+334,Bee Removal Specialist,Safely relocate bee colonies without harm,['animal handling safety protocols problem solving environmental awareness customer service'],Pest Control,Average paying
+335,Sign Language Interpreter,Facilitate communication for deaf and hearing individuals,['sign language fluency cultural awareness communication attention to detail empathy'],Professional Services,Average paying
+336,Crime Prevention Specialist,Analyze crime patterns and develop prevention strategies,['data analysis criminal justice research skills communication strategic planning'],Law Enforcement,Average paying
+337,Equine Therapist,Provide therapeutic services using horses,['animal training therapy techniques empathy physical coordination safety awareness'],Healthcare,Average paying
+338,Digital Detox Coach,Help individuals reduce technology dependency and digital overwhelm,['counseling skills psychology technology awareness communication goal setting'],Wellness,Average paying
+339,Fossil Preparator,Clean and prepare fossils for research and display,['manual dexterity scientific knowledge attention to detail patience laboratory skills'],Science & Research,Average paying
+340,Rope Access Technician,Perform maintenance on tall structures using climbing techniques,['physical fitness safety protocols problem solving manual dexterity risk assessment'],Maintenance Services,Average paying
+341,Medical Scribe,Document patient encounters for healthcare providers,['medical terminology typing skills attention to detail communication organization'],Healthcare,Low paying
+342,Urban Beekeeper,Manage bee colonies in city environments,['beekeeping skills urban planning environmental awareness problem solving seasonal planning'],Agriculture,Average paying
+343,Disaster Victim Advocate,Support individuals affected by natural disasters,['crisis counseling communication empathy resource coordination problem solving'],Social Services,Average paying
+344,Genealogy Researcher,Trace family histories and ancestral connections,['research skills historical knowledge database management communication attention to detail'],Professional Services,Average paying
+345,Commercial Fisherman,Harvest fish and seafood for commercial markets,['maritime skills physical stamina safety awareness weather assessment equipment operation'],Fishing,Average paying
+346,Sleep Disorder Specialist,Diagnose and treat sleep related medical conditions,['medical knowledge patient assessment diagnostic skills communication problem solving'],Healthcare,High paying
+347,Digital Rights Advocate,Protect online privacy and digital freedoms,['legal knowledge technology understanding advocacy skills communication research skills'],Legal Services,Average paying
+348,Aerial Photography Pilot,Capture images and video from aircraft or drones,['aviation skills photography technical equipment visual composition safety protocols'],Photography,Average paying
+349,Kombucha Brewer,Ferment and produce probiotic beverages,['fermentation science quality control food safety creativity problem solving'],Food Production,Average paying
+350,Memory Care Specialist,Provide specialized care for dementia and Alzheimer patients,['patient care compassion communication problem solving medical knowledge'],Healthcare,Average paying
+351,Cave Rescue Technician,Perform emergency rescues in underground environments,['technical rescue skills physical fitness problem solving safety protocols risk assessment'],Emergency Services,Average paying
+352,Digital Accessibility Consultant,Ensure websites and apps are usable by people with disabilities,['web development accessibility standards problem solving communication technical skills'],Technology,Average paying
+353,Butterfly Conservationist,Protect and restore butterfly habitats and populations,['entomology environmental science research skills conservation biology fieldwork'],Environmental Services,Average paying
+354,Voice Recognition Trainer,Improve speech recognition software accuracy,['linguistics computer science audio processing communication technical skills'],Technology,Average paying
+355,Competitive Eating Coach,Train professional competitive eaters,['nutrition knowledge coaching skills psychology performance analysis safety awareness'],Sports,Low paying
+356,Digital Nomad Consultant,Help remote workers optimize location independent careers,['business consulting technology skills communication cultural awareness travel planning'],Consulting,Average paying
+357,Soap Maker,Create artisanal soaps and personal care products,['chemistry creativity quality control safety protocols customer service'],Manufacturing,Low paying
+358,Storm Chaser,Document severe weather phenomena for research and media,['meteorology photography safety protocols problem solving risk assessment'],Weather Services,Average paying
+359,Candle Maker,Design and manufacture decorative and functional candles,['craftsmanship creativity safety protocols quality control customer service'],Manufacturing,Low paying
+360,Meditation Teacher,Instruct individuals and groups in mindfulness practices,['mindfulness training communication empathy teaching skills stress management'],Wellness,Low paying
+361,Digital Nomad Tax Advisor,Provide tax services for location independent workers,['tax law international regulations communication problem solving attention to detail'],Financial Services,Average paying
+362,Terrarium Designer,Create miniature ecosystems in glass containers,['botany creativity attention to detail customer service environmental knowledge'],Design Services,Low paying
+363,Sleep Study Technician,Monitor patients during overnight sleep assessments,['medical technology patient care attention to detail technical equipment problem solving'],Healthcare,Average paying
+364,Urban Forager,Identify and harvest edible plants in city environments,['botany foraging skills safety awareness environmental knowledge teaching skills'],Environmental Services,Low paying
+365,Cord Blood Bank Coordinator,Manage collection and storage of umbilical cord blood,['medical knowledge organization communication attention to detail quality control'],Healthcare,Average paying
+366,Sensory Deprivation Tank Operator,Maintain flotation therapy equipment and facilities,['customer service equipment maintenance safety protocols problem solving relaxation techniques'],Wellness,Low paying
+367,Digital Estate Planner,Help families manage digital assets after death,['estate planning technology skills communication problem solving legal knowledge'],Legal Services,Average paying
+368,Mushroom Forager,Identify and harvest wild mushrooms for culinary use,['mycology safety protocols foraging skills environmental knowledge risk assessment'],Food Services,Average paying
+369,Color Consultant,Advise on color schemes for interior and exterior spaces,['color theory creativity communication visual skills customer service'],Design Services,Average paying
+370,Escape Room Designer,Create puzzle based entertainment experiences,['creative problem solving game design engineering customer experience innovation'],Entertainment,Average paying
+371,Digital Minimalism Coach,Help people simplify their digital lives and reduce screen time,['psychology communication goal setting technology awareness lifestyle coaching'],Wellness,Average paying
+372,Tiny House Builder,Construct small scale living spaces and mobile homes,['construction skills spatial design problem solving creativity customer service'],Construction,Average paying
+373,Aquarium Maintenance Specialist,Care for fish tanks and aquatic ecosystems,['aquatic biology water chemistry equipment maintenance customer service problem solving'],Pet Services,Low paying
+374,Professional Organizer,Help individuals and businesses organize their spaces,['organization skills problem solving communication customer service time management'],Professional Services,Average paying
+375,Digital Marketing Automation Specialist,Create automated marketing campaigns and workflows,['marketing technology programming analytics creative thinking'],Marketing,High paying
+376,Permaculture Designer,Design sustainable agricultural and living systems,['ecological design environmental science agriculture problem solving systems thinking'],Environmental Services,Average paying
+377,Home Energy Auditor,Assess residential energy efficiency and recommend improvements,['energy systems knowledge problem solving communication attention to detail technical skills'],Energy Services,Average paying
+378,Pet Portrait Artist,Create artistic representations of companion animals,['artistic skills animal behavior customer service creativity communication'],Arts & Crafts,Low paying
+379,Digital Privacy Consultant,Advise individuals and organizations on online privacy protection,['cybersecurity legal knowledge communication problem solving technology skills'],Technology,Average paying
+380,Bereavement Photographer,Document final moments and memorial services for families,['photography empathy discretion communication artistic skills'],Photography,Average paying
+381,Fermentation Specialist,Develop fermented foods and beverages for commercial production,['food science microbiology quality control innovation problem solving'],Food Production,Average paying
+382,Digital Asset Recovery Specialist,Help retrieve lost cryptocurrency and digital files,['cybersecurity problem solving attention to detail communication technical skills'],Technology,High paying
+383,Mushroom Cultivation Specialist,Grow exotic and medicinal mushrooms for commercial use,['mycology agriculture environmental control quality control problem solving'],Agriculture,Average paying
+384,Virtual Reality Therapist,Use VR technology to treat phobias and mental health conditions,['psychology technology skills therapeutic techniques empathy innovation'],Healthcare,High paying
+385,Disaster Recovery Pet Rescuer,Save and care for animals during natural disasters,['animal handling emergency response physical fitness problem solving empathy'],Emergency Services,Low paying
+386,Digital Content Moderator,Review and filter online content for appropriateness,['attention to detail critical thinking communication problem solving cultural awareness'],Technology,Low paying
+387,Rare Book Restorer,Preserve and repair historical manuscripts and texts,['manual dexterity historical knowledge attention to detail patience craftsmanship'],Cultural Heritage,Average paying
+388,Urban Sketching Instructor,Teach drawing techniques for capturing city scenes,['artistic skills teaching communication creativity observational skills'],Arts & Culture,Low paying
+389,Digital Wellness Coach,Help individuals develop healthy relationships with technology,['psychology communication goal setting technology awareness lifestyle coaching'],Wellness,Average paying
+390,Vintage Clothing Curator,Authenticate and preserve historical garments and fashion,['fashion history research skills attention to detail communication textile knowledge'],Fashion,Average paying
+391,Sound Bath Practitioner,Provide therapeutic sound healing sessions,['musical skills healing techniques communication empathy mindfulness'],Wellness,Low paying
+392,Edible Landscape Designer,Create gardens that produce food while maintaining aesthetic appeal,['horticulture landscape design sustainability creativity problem solving'],Landscaping,Average paying
+393,Digital Sabbath Consultant,Help individuals and organizations implement technology breaks,['psychology communication time management wellness coaching technology awareness'],Wellness,Average paying
+394,Mushroom Identification Guide,Lead foraging expeditions and teach mushroom safety,['mycology teaching skills safety protocols communication environmental knowledge'],Education,Low paying
+395,Virtual Event Producer,Organize and manage online conferences and gatherings,['event planning technology skills communication problem solving project management'],Event Planning,Average paying
+396,Pollinator Garden Designer,Create spaces that support bees butterflies and other pollinators,['ecology horticulture environmental science creativity problem solving'],Environmental Services,Average paying
+397,Digital Legacy Planner,Help people prepare their online presence for after death,['technology planning communication legal knowledge problem solving'],Professional Services,Average paying
+398,Rain Water Harvesting Specialist,Design systems to collect and utilize rainwater,['environmental engineering water management problem solving sustainability planning'],Environmental Services,Average paying
+399,Mindful Eating Coach,Teach individuals to develop healthy relationships with food,['nutrition psychology communication empathy goal setting'],Wellness,Average paying
+400,Digital Detox Retreat Leader,Organize and lead technology free wellness experiences,['event planning communication leadership wellness coaching outdoor skills'],Wellness,Average paying
+401,Heritage Breed Livestock Conservationist,Preserve rare and endangered farm animal breeds,['animal husbandry conservation biology genetics agriculture problem solving'],Agriculture,Average paying
+402,Online Community Manager,Build and moderate digital communities for brands and organizations,['communication social media marketing community building problem solving'],Marketing,Average paying
+403,Greywater System Designer,Create systems to reuse household wastewater,['plumbing engineering environmental science problem solving sustainability planning'],Environmental Services,Average paying
+404,Digital Nomad Insurance Advisor,Provide coverage solutions for location independent workers,['insurance knowledge travel regulations communication problem solving risk assessment'],Insurance,Average paying
+405,Seed Bank Curator,Preserve plant genetic diversity through seed collection and storage,['botany conservation biology organization research skills problem solving'],Environmental Services,Average paying
+406,Virtual Assistant Trainer,Teach skills for remote administrative support work,['business skills communication teaching technology skills organization'],Professional Services,Average paying
+407,Sustainable Fashion Consultant,Advise on environmentally conscious clothing choices,['fashion knowledge environmental awareness communication sustainability problem solving'],Fashion,Average paying
+408,Digital Archaeology Researcher,Use technology to study ancient civilizations and artifacts,['archaeology technology skills research methods data analysis problem solving'],Cultural Heritage,High paying
+409,Microgreen Farmer,Grow nutrient dense young vegetables for restaurants and markets,['agriculture hydroponics quality control customer service problem solving'],Agriculture,Low paying
+410,Online Learning Designer,Create educational courses and training programs for digital platforms,['instructional design communication technology skills creativity problem solving'],Education,Average paying
+411,Wetland Restoration Specialist,Rehabilitate damaged aquatic ecosystems and habitats,['environmental science ecology project management problem solving research skills'],Environmental Services,Average paying
+412,Digital Product Designer,Create user centered digital products and applications,['user experience design problem solving creativity technology skills communication'],Technology,High paying
+413,Heirloom Tomato Grower,Cultivate rare and heritage varieties of tomatoes,['agriculture horticulture quality control customer service problem solving'],Agriculture,Low paying
+414,Remote Team Building Facilitator,Organize activities to strengthen distributed teams,['communication leadership psychology team dynamics problem solving'],Human Resources,Average paying
+415,Green Roof Designer,Create living roof systems for buildings,['landscape architecture environmental science engineering creativity problem solving'],Architecture,Average paying
+416,Digital Anthropologist,Study how technology affects human behavior and culture,['anthropology research skills data analysis communication critical thinking'],Social Sciences,High paying
+417,Specialty Coffee Roaster,Process coffee beans to create unique flavor profiles,['food science sensory analysis quality control creativity customer service'],Food Production,Average paying
+418,Virtual Reality Fitness Instructor,Lead exercise classes in immersive digital environments,['fitness training technology skills communication motivation innovation'],Fitness & Recreation,Average paying
+419,Soil Health Specialist,Assess and improve agricultural soil quality,['soil science agriculture environmental science problem solving research skills'],Agriculture,Average paying
+420,Digital Rights Lawyer,Practice law focused on technology and online issues,['legal knowledge technology understanding communication problem solving research skills'],Legal Services,High paying
+421,Artisanal Ice Cream Maker,Create unique frozen desserts using traditional methods,['culinary arts creativity food safety quality control customer service'],Food Production,Low paying
+422,Online Course Instructor,Teach specialized subjects through digital platforms,['subject matter expertise teaching skills communication technology skills adaptability'],Education,Average paying
+423,Renewable Energy Sales Consultant,Sell solar panels and clean energy systems to consumers,['sales skills renewable energy knowledge communication problem solving customer service'],Sales,Average paying
+424,Digital Marketing Analytics Specialist,Analyze online marketing data to optimize campaigns,['data analysis marketing knowledge problem solving communication technical skills'],Marketing,High paying
+425,Heritage Seed Keeper,Preserve heirloom plant varieties for future generations,['botany conservation genetics agriculture research skills'],Environmental Services,Average paying
+426,Virtual Reality Game Designer,Create immersive gaming experiences and worlds,['game design programming creativity problem solving user experience'],Gaming,High paying
+427,Sustainable Building Inspector,Evaluate construction projects for environmental compliance,['building codes environmental standards attention to detail communication problem solving'],Construction,Average paying
+428,Digital Wellness Researcher,Study the effects of technology on human health and behavior,['research methods psychology data analysis communication critical thinking'],Science & Research,High paying
+429,Artisanal Chocolate Maker,Craft small batch chocolates using traditional techniques,['culinary arts creativity quality control food safety customer service'],Food Production,Average paying
+430,Online Community Moderator,Maintain safe and productive digital discussion spaces,['communication problem solving critical thinking conflict resolution attention to detail'],Technology,Low paying
+431,Permeable Pavement Installer,Install eco friendly surfaces that allow water drainage,['construction skills environmental science problem solving safety protocols technical skills'],Construction,Average paying
+432,Digital Asset Appraiser,Evaluate the value of cryptocurrency and digital collectibles,['financial analysis technology knowledge research skills communication problem solving'],Finance,High paying
+433,Specialty Tea Blender,Create unique tea combinations and flavor profiles,['culinary arts sensory analysis creativity quality control customer service'],Food Production,Average paying
+434,Virtual Reality Training Developer,Create immersive educational and skills training programs,['instructional design programming 3d modeling communication innovation'],Education,High paying
+435,Carbon Credit Analyst,Evaluate and trade environmental impact offsets,['environmental science financial analysis research skills communication problem solving'],Environmental Services,High paying
+436,Digital Nomad Visa Consultant,Advise on immigration requirements for remote workers,['immigration law research skills communication problem solving cultural awareness'],Legal Services,Average paying
+437,Aquaponics Farmer,Grow plants and fish together in sustainable systems,['agriculture aquaculture systems thinking problem solving environmental science'],Agriculture,Average paying
+438,Online Reputation Manager,Monitor and improve digital presence for individuals and businesses,['digital marketing communication problem solving research skills strategic thinking'],Marketing,Average paying
+439,Green Chemistry Researcher,Develop environmentally friendly chemical processes,['chemistry environmental science research skills innovation problem solving'],Science & Research,High paying
+440,Digital Estate Executor,Manage digital assets and accounts after someone passes away,['legal knowledge technology skills communication problem solving organization'],Legal Services,Average paying
+441,Botanical Illustrator,Create scientific drawings of plants and flowers,['artistic skills botany attention to detail communication scientific knowledge'],Arts & Sciences,Average paying
+442,Virtual Reality Social Worker,Provide counseling and support through immersive technology,['social work technology skills empathy communication innovation'],Social Services,High paying
+443,Indigenous Plant Specialist,Cultivate and preserve native plant species,['botany conservation biology cultural awareness research skills problem solving'],Environmental Services,Average paying
+444,Digital Literacy Instructor,Teach technology skills to underserved populations,['teaching skills technology knowledge communication patience cultural sensitivity'],Education,Low paying
+445,Sustainable Fashion Designer,Create clothing with minimal environmental impact,['fashion design environmental awareness creativity innovation problem solving'],Fashion,Average paying
+446,Virtual Assistant Services Manager,Coordinate remote administrative support teams,['management communication organization problem solving technology skills'],Business Services,Average paying
+447,Rainforest Conservation Guide,Lead educational tours while protecting tropical ecosystems,['environmental science teaching skills communication physical fitness conservation biology'],Environmental Services,Average paying
+448,Digital Payment Security Analyst,Protect online financial transactions from fraud,['cybersecurity financial systems problem solving attention to detail communication'],Finance,High paying
+449,Artisanal Bread Baker,Create traditional breads using time honored techniques,['culinary arts attention to detail quality control creativity customer service'],Food Production,Average paying
+450,Online Learning Support Specialist,Help students navigate digital educational platforms,['education technology communication problem solving customer service'],Education,Low paying
+451,Green Building Consultant,Advise on sustainable construction practices and materials,['architecture environmental science building codes communication problem solving'],Construction,High paying
+452,Digital Privacy Educator,Teach individuals and organizations about online security,['cybersecurity teaching skills communication technology knowledge problem solving'],Education,Average paying
+453,Heritage Fruit Tree Cultivator,Grow and preserve rare and antique fruit varieties,['horticulture conservation biology agriculture research skills problem solving'],Agriculture,Average paying
+454,Virtual Reality Meditation Guide,Lead mindfulness sessions in immersive digital environments,['meditation teaching technology skills communication mindfulness training'],Wellness,Average paying
+455,Waste Stream Analyst,Study material flows to reduce environmental impact,['environmental science data analysis research skills problem solving communication'],Environmental Services,Average paying
+456,Digital Content Creator,Produce engaging multimedia content for online audiences,['creativity communication technology skills marketing problem solving'],Media & Publishing,Average paying
+457,Regenerative Agriculture Specialist,Implement farming practices that restore soil health,['agriculture environmental science research skills problem solving systems thinking'],Agriculture,Average paying
+458,Online Business Coach,Help entrepreneurs build successful digital enterprises,['business consulting communication coaching skills problem solving strategic thinking'],Business Services,Average paying
+459,Biochar Production Specialist,Create carbon sequestering soil amendments from organic waste,['environmental science chemistry agriculture innovation problem solving'],Environmental Services,Average paying
+460,Digital Marketing Strategist,Develop comprehensive online marketing campaigns,['marketing strategy communication analytical thinking creativity problem solving'],Marketing,High paying
+461,Traditional Craft Instructor,Teach historical handicraft techniques and skills,['craftsmanship teaching skills communication cultural knowledge patience'],Arts & Culture,Low paying
+462,Virtual Events Technical Director,Manage technology for online conferences and gatherings,['technology skills problem solving communication project management innovation'],Technology,Average paying
+463,Pollinator Habitat Restorer,Create and maintain spaces for bees butterflies and beneficial insects,['ecology conservation biology environmental science problem solving research skills'],Environmental Services,Average paying
+464,Digital Transformation Consultant,Help organizations adapt to new technologies and processes,['business consulting technology strategy communication problem solving change management'],Consulting,High paying
+465,Artisanal Fermented Foods Producer,Create traditional cultured foods like kimchi and sauerkraut,['food science fermentation cultural knowledge quality control customer service'],Food Production,Average paying
+466,Online Community Builder,Create and grow digital spaces for shared interests and goals,['community management communication social media problem solving relationship building'],Technology,Average paying
+467,Ecological Restoration Coordinator,Plan and oversee habitat rehabilitation projects,['environmental science project management research skills communication problem solving'],Environmental Services,High paying
+468,Digital Product Manager,Oversee development and launch of software products and applications,['product management technology strategy communication problem solving leadership'],Technology,High paying
+469,Sustainable Tourism Guide,Lead eco friendly travel experiences while preserving destinations,['tourism environmental awareness communication cultural knowledge problem solving'],Tourism,Average paying
+470,Virtual Reality Healthcare Developer,Create medical training and patient treatment applications,['healthcare technology programming innovation problem solving'],Healthcare,High paying
+471,Indigenous Food Sovereignty Advocate,Promote traditional food systems and cultural preservation,['cultural awareness advocacy skills communication research skills problem solving'],Social Services,Average paying
+472,Digital Analytics Consultant,Help organizations understand and optimize their online performance,['data analysis marketing technology communication problem solving'],Consulting,High paying
+473,Artisanal Soap and Cosmetics Maker,Create natural personal care products using traditional methods,['chemistry creativity quality control safety protocols customer service'],Manufacturing,Low paying
+474,Online Education Quality Assurance Specialist,Ensure digital learning programs meet educational standards,['education quality control communication problem solving attention to detail'],Education,Average paying
+475,Climate Adaptation Planner,Help communities prepare for environmental changes,['environmental science urban planning communication problem solving research skills'],Environmental Services,High paying
+476,Digital Accessibility Developer,Create inclusive technology solutions for people with disabilities,['web development accessibility standards problem solving communication innovation'],Technology,High paying
+477,Heritage Livestock Guardian,Protect and preserve rare farm animal breeds,['animal husbandry conservation biology genetics problem solving research skills'],Agriculture,Average paying
+478,Virtual Reality Architecture Visualizer,Create immersive previews of building designs,['architecture 3d modeling technology skills creativity communication'],Architecture,Average paying
+479,Ecosystem Services Valuer,Quantify the economic benefits of natural environments,['environmental economics research skills data analysis communication problem solving'],Environmental Services,High paying
+480,Digital Brand Strategist,Develop online identity and positioning for organizations,['branding marketing strategy communication creativity problem solving'],Marketing,High paying
+481,Traditional Building Craft Specialist,Preserve historical construction techniques and skills,['construction cultural heritage manual dexterity problem solving teaching skills'],Construction,Average paying
+482,Online Learning Community Manager,Foster engagement and connection in educational platforms,['community management education communication problem solving technology skills'],Education,Average paying
+483,Renewable Energy Project Developer,Plan and implement clean energy installations,['project management renewable energy finance communication problem solving'],Renewable Energy,High paying
+484,Digital Employee Experience Designer,Optimize remote work environments and company culture,['human resources technology skills communication problem solving psychology'],Human Resources,High paying
+485,Artisanal Pickle and Preserve Maker,Create traditional preserved foods using time honored methods,['food science food safety creativity quality control customer service'],Food Production,Low paying
+486,Virtual Reality Sports Trainer,Use immersive technology to improve athletic performance,['sports training technology skills communication motivation innovation'],Sports,Average paying
+487,Biodiversity Conservation Coordinator,Protect and restore species and habitat diversity,['conservation biology environmental science research skills problem solving communication'],Environmental Services,High paying
+488,Digital Marketing Automation Developer,Create systems that automate online marketing processes,['marketing technology programming problem solving innovation'],Marketing,High paying
+489,Traditional Medicine Plant Cultivator,Grow herbs and plants used in historical healing practices,['botany traditional medicine agriculture research skills problem solving'],Agriculture,Average paying
+490,Online Workshop Facilitator,Lead interactive learning sessions through digital platforms,['teaching skills communication technology skills problem solving group dynamics'],Education,Average paying
+491,Sustainable Water Systems Designer,Create eco friendly water treatment and distribution systems,['environmental engineering water management problem solving innovation sustainability'],Environmental Services,High paying
+492,Digital Customer Experience Analyst,Study and improve online user interactions and satisfaction,['user experience research data analysis communication problem solving'],Technology,High paying
+493,Heritage Grain Grower and Miller,Cultivate and process ancient wheat and grain varieties,['agriculture food processing traditional skills quality control problem solving'],Agriculture,Average paying
+494,Virtual Reality Museum Curator,Create immersive cultural and educational experiences,['museum studies technology skills communication creativity research skills'],Cultural Heritage,Average paying
+495,Ecological Economist,Study the relationship between economic systems and environmental health,['economics environmental science research skills communication problem solving'],Economics,High paying
+496,Digital Wellness Program Coordinator,Develop and manage technology balance initiatives for organizations,['wellness coaching program management communication problem solving psychology'],Wellness,Average paying
+497,Artisanal Fiber Artist and Dyer,Create textiles using traditional techniques and natural materials,['textile arts creativity manual dexterity cultural knowledge customer service'],Arts & Crafts,Low paying
+498,Online Course Technical Producer,Manage the technical aspects of digital educational content creation,['education technology video production problem solving communication'],Education,Average paying
+499,Climate Change Communication Specialist,Translate scientific research into accessible public information,['environmental science communication research skills problem solving public speaking'],Environmental Services,Average paying
+500,Digital Innovation Consultant,Help organizations adopt emerging technologies and future focused strategies,['technology strategy innovation management communication problem solving'],Consulting,High paying
+501,Machine Learning Engineer,Design and implement ML algorithms for production systems,['python; tensorflow; statistics; cloud platforms; data engineering'],Technology,High paying
+502,Cybersecurity Architect,Design comprehensive security frameworks for enterprise systems,['security protocols; risk assessment; network security; compliance; leadership'],Technology,High paying
+503,Product Owner,Define product vision and manage development roadmap,['agile methodologies; stakeholder management; analytics; market research; communication'],Technology,High paying
+504,Cloud Solutions Architect,Design scalable cloud infrastructure and migration strategies,['aws/azure; microservices; devops; system design; cost optimization'],Technology,High paying
+505,AI Research Scientist,Conduct advanced research in artificial intelligence and machine learning,['deep learning; research methodology; statistical analysis; python; publications'],Science & Research,High paying
+506,Blockchain Developer,Develop decentralized applications and smart contracts,['solidity; web3; cryptography; distributed systems; javascript'],Technology,High paying
+507,Investment Banking Analyst,Analyze financial markets and support M&A transactions,['financial modeling; valuation; excel; powerpoint; market analysis'],Finance,High paying
+508,Petroleum Engineer,Design extraction methods for oil and gas resources,['reservoir engineering; drilling technology; geology; safety protocols; cad'],Oil & Gas,High paying
+509,Neurosurgeon,Perform complex brain and nervous system surgeries,['medical expertise; surgical skills; precision; decision making; stamina'],Healthcare,High paying
+510,Aerospace Engineer,Design aircraft and spacecraft systems,['aerodynamics; cad; materials science; systems engineering; testing'],Aerospace,High paying
+511,Clinical Research Scientist,Lead clinical trials for new medical treatments,['clinical trial design; statistical analysis; regulatory knowledge; medical writing; ethics'],Healthcare,High paying
+512,Quantitative Analyst,Develop mathematical models for financial trading,['mathematics; python/r; statistics; risk management; financial markets'],Finance,High paying
+513,Senior Software Architect,Design large-scale software systems and technical strategy,['system design; architecture patterns; leadership; multiple programming languages; scalability'],Technology,High paying
+514,Data Engineering Manager,Lead teams building data infrastructure and pipelines,['data architecture; team leadership; big data tools; cloud platforms; strategy'],Technology,High paying
+515,Pharmaceutical Scientist,Research and develop new drugs and medical treatments,['chemistry; pharmacology; clinical research; regulatory affairs; laboratory skills'],Healthcare,High paying
+516,Chief Information Officer,Oversee enterprise IT strategy and digital transformation,['it strategy; leadership; digital transformation; budgeting; risk management'],Executive Leadership,High paying
+517,Principal Consultant,Provide expert advisory services to Fortune 500 companies,['industry expertise; strategic thinking; client management; presentation skills; analytics'],Consulting,High paying
+518,Biomedical Engineer,Design medical devices and equipment,['engineering design; biology; medical device regulations; cad; testing'],Healthcare,High paying
+519,Corporate Finance Director,Manage corporate financial strategy and capital allocation,['financial planning; m&a; capital markets; leadership; strategic analysis'],Finance,High paying
+520,Lead UX Researcher,Conduct user research to inform product design decisions,['user research methods; data analysis; psychology; prototyping; communication'],Technology,High paying
+521,Solutions Engineer,Provide technical expertise to support sales and implementations,['technical sales; problem solving; communication; software architecture; customer success'],Technology,Average paying
+522,Digital Marketing Specialist,Develop and execute digital marketing campaigns,['seo/sem; social media; analytics; content marketing; a/b testing'],Marketing,Average paying
+523,Technical Writer,Create documentation for software and technical products,['technical writing; documentation tools; software understanding; communication; research'],Technology,Average paying
+524,Business Intelligence Analyst,Analyze business data to support decision making,['sql; tableau/powerbi; data analysis; business acumen; reporting'],Business Services,Average paying
+525,Scrum Master,Facilitate agile development processes and team collaboration,['agile methodologies; team facilitation; conflict resolution; project management; communication'],Technology,Average paying
+526,Quality Assurance Engineer,Ensure software quality through testing and validation,['test automation; bug tracking; testing methodologies; scripting; attention to detail'],Technology,Average paying
+527,Recruitment Specialist,Source and recruit talent for various organizational roles,['talent acquisition; interviewing; networking; communication; ats systems'],Human Resources,Average paying
+528,Financial Planner,Provide financial planning and investment advice to clients,['financial planning; investment knowledge; client relations; regulatory compliance; mathematics'],Finance,Average paying
+529,Operations Research Analyst,Use analytical methods to solve complex business problems,['operations research; statistical analysis; optimization; mathematical modeling; programming'],Business Services,Average paying
+530,Environmental Consultant,Assess environmental impact and ensure regulatory compliance,['environmental science; regulatory knowledge; data collection; report writing; site assessment'],Environmental Services,Average paying
+531,Instructional Designer,Design educational content and training programs,['learning theory; curriculum development; e-learning tools; assessment design; communication'],Education,Average paying
+532,Supply Chain Analyst,Optimize supply chain operations and logistics,['supply chain management; data analysis; forecasting; process improvement; erp systems'],Logistics,Average paying
+533,Market Research Analyst,Conduct market research to identify business opportunities,['market research; statistical analysis; survey design; data interpretation; presentation skills'],Marketing,Average paying
+534,Systems Administrator,Maintain and troubleshoot IT infrastructure and systems,['system administration; networking; troubleshooting; scripting; security'],Technology,Average paying
+535,Credit Analyst,Evaluate creditworthiness of individuals and organizations,['credit analysis; financial statement analysis; risk assessment; regulatory knowledge; attention to detail'],Finance,Average paying
+536,Training Coordinator,Organize and deliver training programs for employees,['training development; presentation skills; learning management systems; communication; organization'],Human Resources,Average paying
+537,Database Administrator,Manage and maintain database systems and data integrity,['database management; sql; backup and recovery; performance tuning; security'],Technology,Average paying
+538,Compliance Officer,Ensure organizational adherence to regulatory requirements,['regulatory knowledge; risk assessment; audit skills; communication; attention to detail'],Legal Services,Average paying
+539,User Experience Designer,Design intuitive and engaging user interfaces,['ux design; prototyping; user research; visual design; interaction design'],Technology,Average paying
+540,Social Media Manager,Manage social media presence and engagement strategies,['social media platforms; content creation; analytics; community management; brand management'],Marketing,Average paying
+541,Laboratory Technician,Conduct scientific tests and experiments in laboratory settings,['laboratory techniques; data collection; scientific equipment; safety protocols; attention to detail'],Science & Research,Average paying
+542,Purchasing Agent,Negotiate and manage procurement of goods and services,['negotiation; vendor management; cost analysis; contract management; supply chain knowledge'],Business Services,Average paying
+543,Health Information Technician,Manage and organize healthcare data and records,['medical coding; health information systems; data management; privacy regulations; attention to detail'],Healthcare,Average paying
+544,Paralegal,Provide legal support and research assistance,['legal research; document preparation; case management; legal software; communication'],Legal Services,Average paying
+545,Event Coordinator,Plan and execute corporate and special events,['event planning; vendor management; budget management; communication; time management'],Event Planning,Average paying
+546,Graphic Designer,Create visual content for various media and platforms,['graphic design; adobe creative suite; visual communication; brand guidelines; creativity'],Creative Services,Average paying
+547,Sales Development Representative,Generate leads and qualify prospects for sales team,['lead generation; crm systems; communication; sales process; prospecting'],Sales,Average paying
+548,Manufacturing Engineer,Optimize manufacturing processes and production efficiency,['manufacturing processes; lean manufacturing; cad; process improvement; quality control'],Manufacturing,Average paying
+549,Tax Accountant,Prepare and file tax returns for individuals and businesses,['tax law; accounting software; attention to detail; analytical skills; communication'],Finance,Average paying
+550,Content Marketing Manager,Develop content strategies to drive brand awareness and engagement,['content strategy; seo; analytics; brand management; creative writing'],Marketing,Average paying
+551,Help Desk Technician,Provide first-level technical support to end users,['technical support; troubleshooting; customer service; it systems; communication'],Technology,Low paying
+552,Administrative Assistant,Provide administrative support to executives and teams,['office administration; calendar management; communication; microsoft office; organization'],Business Services,Low paying
+553,Customer Service Representative,Handle customer inquiries and resolve issues,['customer service; communication; problem solving; crm systems; patience'],Customer Service,Low paying
+554,Data Entry Clerk,Input and maintain accurate data in computer systems,['data entry; attention to detail; typing speed; database software; accuracy'],Business Services,Low paying
+555,Receptionist,Greet visitors and manage front desk operations,['customer service; phone etiquette; scheduling; communication; professional appearance'],Business Services,Low paying
+556,Warehouse Associate,Handle inventory management and order fulfillment,['inventory management; physical stamina; attention to detail; warehouse management systems; safety'],Warehousing,Low paying
+557,Retail Sales Associate,Assist customers with purchases and product information,['customer service; sales skills; product knowledge; cash handling; communication'],Retail,Low paying
+558,Food Service Worker,Prepare and serve food in restaurant or cafeteria settings,['food preparation; customer service; sanitation; teamwork; physical stamina'],Food Service,Low paying
+559,Security Guard,Monitor premises and ensure safety and security,['security procedures; observation skills; communication; physical fitness; emergency response'],Security,Low paying
+560,Janitor,Maintain cleanliness and sanitation of facilities,['cleaning techniques; equipment operation; attention to detail; physical stamina; time management'],Cleaning Services,Low paying
+561,Delivery Driver,Transport goods and packages to customers,['driving skills; navigation; customer service; time management; physical stamina'],Transportation,Low paying
+562,Cashier,Process customer transactions and handle payments,['cash handling; customer service; attention to detail; point of sale systems; mathematics'],Retail,Low paying
+563,Maintenance Worker,Perform routine maintenance and repairs on facilities,['maintenance skills; tool usage; problem solving; safety protocols; physical skills'],Maintenance Services,Low paying
+564,Landscaping Worker,Maintain and beautify outdoor spaces and gardens,['landscaping; plant knowledge; equipment operation; physical stamina; attention to detail'],Landscaping,Low paying
+565,Kitchen Assistant,Support kitchen operations in food service establishments,['food preparation; sanitation; teamwork; physical stamina; following instructions'],Food Service,Low paying
+566,Parking Attendant,Manage parking facilities and assist customers,['customer service; cash handling; attention to detail; physical activity; communication'],Facilities Management,Low paying
+567,Farm Worker,Perform agricultural tasks and crop maintenance,['agricultural skills; physical stamina; equipment operation; seasonal work; attention to detail'],Agriculture,Low paying
+568,Housekeeping Aide,Clean and maintain residential or commercial properties,['cleaning skills; attention to detail; time management; physical stamina; reliability'],Cleaning Services,Low paying
+569,Library Assistant,Support library operations and help patrons,['customer service; organization; computer skills; attention to detail; communication'],Education,Low paying
+570,Assembly Line Worker,Assemble products on manufacturing production lines,['manual dexterity; attention to detail; teamwork; physical stamina; quality control'],Manufacturing,Low paying
+571,Childcare Worker,Supervise and care for children in daycare settings,['child development; patience; communication; safety awareness; creativity'],Education,Low paying
+572,Dog Walker,Provide exercise and care services for pets,['animal handling; physical fitness; reliability; love for animals; communication'],Pet Services,Low paying
+573,Dishwasher,Clean dishes and maintain kitchen sanitation,['sanitation; physical stamina; teamwork; attention to detail; following instructions'],Food Service,Low paying
+574,Hotel Housekeeper,Clean and maintain hotel rooms and facilities,['cleaning skills; attention to detail; time management; physical stamina; hospitality'],Hospitality,Low paying
+575,Telemarketer,Make outbound calls to promote products or services,['communication; persistence; sales skills; computer skills; stress management'],Sales,Low paying
+576,Product Manager,Define product strategy and coordinate development teams,['product management; market research; stakeholder management; analytics; strategic thinking'],Technology,High paying
+577,Principal Data Scientist,Lead data science initiatives and advanced analytics projects,['advanced statistics; machine learning; team leadership; business strategy; python/r'],Technology,High paying
+578,Senior DevOps Engineer,Design and implement CI/CD pipelines and infrastructure automation,['devops; kubernetes; cloud platforms; infrastructure as code; automation'],Technology,High paying
+579,Enterprise Architect,Design enterprise-wide technology architecture and standards,['enterprise architecture; system integration; technology strategy; leadership; communication'],Technology,High paying
+580,Chief Marketing Officer,Develop and execute comprehensive marketing strategies,['marketing strategy; brand management; digital marketing; team leadership; analytics'],Executive Leadership,High paying
+581,Investment Manager,Manage investment portfolios and client relationships,['portfolio management; financial analysis; risk management; client relations; market knowledge'],Finance,High paying
+582,Cardiologist,Diagnose and treat heart and cardiovascular conditions,['medical expertise; diagnostic skills; patient care; surgical skills; continuous learning'],Healthcare,High paying
+583,Patent Attorney,Provide legal counsel on intellectual property matters,['patent law; technical knowledge; legal research; writing skills; analytical thinking'],Legal Services,High paying
+584,Principal Software Engineer,Lead complex software development projects and technical decisions,['advanced programming; system design; technical leadership; code review; mentoring'],Technology,High paying
+585,Head of Product,Oversee product portfolio and strategic product direction,['product strategy; market analysis; team leadership; stakeholder management; innovation'],Technology,High paying
+586,Senior Management Consultant,Advise executives on strategic business transformations,['strategic analysis; change management; client management; industry expertise; leadership'],Consulting,High paying
+587,Chief Data Officer,Lead enterprise data strategy and governance initiatives,['data strategy; data governance; analytics; leadership; digital transformation'],Executive Leadership,High paying
+588,Interventional Radiologist,Perform minimally invasive medical procedures using imaging guidance,['medical imaging; surgical skills; patient care; technical expertise; precision'],Healthcare,High paying
+589,Hedge Fund Manager,Manage investment funds and trading strategies,['investment strategy; risk management; financial markets; quantitative analysis; leadership'],Finance,High paying
+590,VP of Engineering,Lead engineering organizations and technical strategy,['engineering leadership; technical strategy; team building; product development; innovation'],Technology,High paying
+591,Senior Business Analyst,Analyze business processes and recommend improvements,['business analysis; process modeling; stakeholder management; requirements gathering; communication'],Business Services,Average paying
+592,Marketing Automation Specialist,Implement and manage marketing automation campaigns,['marketing automation; email marketing; crm systems; analytics; campaign management'],Marketing,Average paying
+593,Technical Support Engineer,Provide advanced technical support for software products,['technical troubleshooting; customer service; software knowledge; communication; problem solving'],Technology,Average paying
+594,Operations Coordinator,Coordinate operational activities and process improvements,['operations management; project coordination; process improvement; communication; organization'],Business Services,Average paying
+595,HR Business Partner,Provide strategic HR support to business units,['hr strategy; employee relations; talent management; business acumen; communication'],Human Resources,Average paying
+596,Financial Controller,Oversee financial reporting and accounting operations,['financial reporting; accounting standards; team management; budgeting; compliance'],Finance,Average paying
+597,Product Marketing Manager,Develop go-to-market strategies for products,['product marketing; market research; competitive analysis; campaign management; communication'],Marketing,Average paying
+598,Site Reliability Engineer,Ensure reliability and performance of production systems,['system reliability; monitoring; automation; incident response; performance optimization'],Technology,Average paying
+599,Learning and Development Specialist,Design and deliver employee training programs,['training design; adult learning; facilitation; lms administration; assessment'],Human Resources,Average paying
+600,Business Development Manager,Identify and pursue new business opportunities,['business development; sales strategy; relationship building; market analysis; negotiation'],Sales,Average paying
+601,Junior Software Developer,Develop software applications under senior guidance,['programming; debugging; version control; testing; learning agility'],Technology,Average paying
+602,Marketing Coordinator,Support marketing campaigns and activities,['marketing support; content creation; social media; event coordination; communication'],Marketing,Average paying
+603,Accounts Receivable Specialist,Manage customer billing and payment collection,['accounts receivable; billing systems; customer service; attention to detail; communication'],Finance,Average paying
+604,IT Support Specialist,Provide technical support for hardware and software issues,['it support; hardware troubleshooting; software installation; customer service; documentation'],Technology,Average paying
+605,Logistics Coordinator,Coordinate shipments and supply chain activities,['logistics; inventory management; communication; organization; problem solving'],Logistics,Average paying
+606,Junior Graphic Designer,Create visual designs for various marketing materials,['graphic design; adobe creative suite; brand guidelines; creativity; time management'],Creative Services,Average paying
+607,Customer Success Manager,Ensure customer satisfaction and retention,['customer success; relationship management; product knowledge; communication; problem solving'],Business Services,Average paying
+608,Payroll Specialist,Process payroll and maintain employee compensation records,['payroll processing; payroll software; attention to detail; confidentiality; compliance'],Human Resources,Average paying
+609,Research Assistant,Support research projects and data collection activities,['research methods; data collection; literature review; analytical skills; organization'],Science & Research,Average paying
+610,Junior Accountant,Assist with accounting tasks and financial record keeping,['accounting; financial reporting; bookkeeping; attention to detail; analytical skills'],Finance,Average paying
+611,Social Worker,Provide support services to individuals and families in need,['social work; case management; counseling; advocacy; empathy'],Social Services,Average paying
+612,Occupational Therapist,Help patients develop or recover daily living skills,['occupational therapy; patient assessment; treatment planning; rehabilitation; empathy'],Healthcare,Average paying
+613,Physical Therapist,Provide rehabilitation services for patients with physical injuries,['physical therapy; anatomy; exercise prescription; patient care; manual therapy'],Healthcare,Average paying
+614,Dental Hygienist,Provide preventive dental care and patient education,['dental hygiene; patient care; dental equipment; health education; attention to detail'],Healthcare,Average paying
+615,Registered Nurse,Provide direct patient care in healthcare settings,['nursing; patient care; medical procedures; documentation; empathy'],Healthcare,Average paying
+616,Elementary School Teacher,Educate and nurture young students in elementary grades,['teaching; curriculum development; classroom management; child development; patience'],Education,Average paying
+617,High School Teacher,Educate students in specific subject areas,['subject matter expertise; teaching; lesson planning; classroom management; communication'],Education,Average paying
+618,Librarian,Manage library resources and assist patrons with information needs,['library science; information management; research skills; customer service; organization'],Education,Average paying
+619,Mental Health Counselor,Provide counseling services to individuals with mental health issues,['counseling; psychology; active listening; empathy; treatment planning'],Healthcare,Average paying
+620,Veterinary Technician,Assist veterinarians with animal care and medical procedures,['veterinary medicine; animal handling; medical equipment; patient care; attention to detail'],Animal Services,Average paying
+621,File Clerk,Organize and maintain filing systems and records,['filing systems; organization; attention to detail; data entry; record keeping'],Business Services,Low paying
+622,Ticket Taker,Collect tickets and direct patrons at entertainment venues,['customer service; crowd management; attention to detail; communication; standing'],Entertainment,Low paying
+623,Concession Stand Worker,Sell food and beverages at entertainment venues,['food service; cash handling; customer service; inventory management; teamwork'],Food Service,Low paying
+624,Usher,Guide and assist patrons at theaters and entertainment venues,['customer service; crowd management; communication; physical activity; attention to detail'],Entertainment,Low paying
+625,Groundskeeper,Maintain outdoor grounds and facilities,['landscaping; equipment operation; physical labor; attention to detail; weather tolerance'],Landscaping,Low paying
+626,Laundry Attendant,Operate laundry equipment and fold clothing,['laundry operations; equipment operation; attention to detail; physical stamina; time management'],Personal Services,Low paying
+627,Car Wash Attendant,Clean vehicles using various cleaning techniques,['vehicle cleaning; physical labor; attention to detail; customer service; teamwork'],Automotive,Low paying
+628,Grocery Store Clerk,Stock shelves and assist customers in grocery stores,['inventory management; customer service; physical labor; attention to detail; teamwork'],Retail,Low paying
+629,Fast Food Worker,Prepare and serve food in fast-food restaurants,['food preparation; customer service; speed; teamwork; sanitation'],Food Service,Low paying
+630,Movie Theater Attendant,Assist customers and maintain theater facilities,['customer service; cleaning; crowd management; communication; physical activity'],Entertainment,Low paying
+631,Newspaper Delivery,Deliver newspapers to subscribers,['driving/cycling; route management; time management; physical activity; reliability'],Media & Publishing,Low paying
+632,Pet Groomer,Provide grooming services for pets,['animal handling; grooming techniques; customer service; patience; physical stamina'],Pet Services,Low paying
+633,Furniture Mover,Transport furniture and household items,['physical strength; lifting techniques; customer service; teamwork; problem solving'],Moving Services,Low paying
+634,Valet Parking Attendant,Park and retrieve vehicles for customers,['driving skills; customer service; physical activity; attention to detail; time management'],Hospitality,Low paying
+635,Tour Guide,Lead tours and provide information to visitors,['public speaking; local knowledge; customer service; communication; walking/standing'],Tourism,Low paying
+636,Amusement Park Attendant,Operate rides and assist guests at amusement parks,['safety procedures; customer service; equipment operation; physical activity; attention to detail'],Recreation,Low paying
+637,Golf Course Maintenance,Maintain golf course grounds and facilities,['landscaping; equipment operation; physical labor; attention to detail; early hours'],Recreation,Low paying
+638,Lifeguard,Monitor swimming areas and ensure safety of swimmers,['swimming skills; cpr/first aid; safety awareness; physical fitness; vigilance'],Recreation,Low paying
+639,Ski Lift Operator,Operate ski lifts and assist skiers,['equipment operation; customer service; safety procedures; physical activity; weather tolerance'],Recreation,Low paying
+640,Boat Rental Attendant,Rent boats and provide safety instructions,['boating knowledge; customer service; safety procedures; physical activity; communication'],Recreation,Low paying
+641,Senior Quality Engineer,Lead quality assurance programs and process improvements,['quality management; statistical analysis; process improvement; leadership; compliance'],Manufacturing,High paying
+642,Director of Operations,Oversee operational excellence and strategic initiatives,['operations management; strategic planning; leadership; process optimization; p&l management'],Business Services,High paying
+643,Principal UX Designer,Lead user experience design for complex digital products,['ux design; design systems; user research; prototyping; design leadership'],Technology,High paying
+644,Senior Research Scientist,Conduct advanced research and lead scientific projects,['research methodology; scientific analysis; grant writing; team leadership; publication'],Science & Research,High paying
+645,Chief Technology Officer,Define technology vision and lead engineering organizations,['technology strategy; engineering leadership; innovation; digital transformation; executive management'],Executive Leadership,High paying
+646,Investment Banking Director,Lead M&A transactions and client relationships,['corporate finance; deal structuring; client management; team leadership; financial modeling'],Finance,High paying
+647,Chief Operating Officer,Oversee all operational aspects of the organization,['operations strategy; executive leadership; process optimization; change management; p&l management'],Executive Leadership,High paying
+648,Senior Tax Manager,Manage complex tax planning and compliance for corporations,['tax strategy; corporate tax; regulatory compliance; team leadership; financial planning'],Finance,High paying
+649,Principal Solutions Architect,Design enterprise-level technical solutions,['solution architecture; technical leadership; client consulting; system integration; innovation'],Technology,High paying
+650,VP of Sales,Lead sales organization and revenue growth strategies,['sales leadership; revenue strategy; team building; market development; executive presence'],Sales,High paying
+651,Digital Product Manager,Manage digital product development and user experience,['product management; digital strategy; user experience; agile development; analytics'],Technology,Average paying
+652,Brand Manager,Develop and execute brand strategies and campaigns,['brand management; marketing strategy; campaign development; market research; creative direction'],Marketing,Average paying
+653,Compensation Analyst,Analyze and design employee compensation programs,['compensation analysis; hr analytics; market research; statistical analysis; excel'],Human Resources,Average paying
+654,Network Engineer,Design and maintain network infrastructure,['network engineering; cisco technologies; troubleshooting; security; documentation'],Technology,Average paying
+655,Training Manager,Develop and oversee organizational training programs,['training management; curriculum development; adult learning; team leadership; assessment'],Human Resources,Average paying
+656,Business Operations Analyst,Analyze business operations and recommend improvements,['operations analysis; process mapping; data analysis; project management; communication'],Business Services,Average paying
+657,Email Marketing Specialist,Develop and execute email marketing campaigns,['email marketing; marketing automation; a/b testing; analytics; creative writing'],Marketing,Average paying
+658,Application Support Analyst,Provide support for business applications and systems,['application support; troubleshooting; sql; business analysis; customer service'],Technology,Average paying
+659,Budget Analyst,Analyze budgets and financial planning for organizations,['budget analysis; financial planning; excel; cost analysis; forecasting'],Finance,Average paying
+660,Facilities Manager,Manage building operations and maintenance,['facilities management; vendor management; maintenance planning; budgeting; safety compliance'],Facilities Management,Average paying
+661,Junior Marketing Assistant,Support marketing activities and campaigns,['marketing support; social media; content creation; administrative tasks; communication'],Marketing,Low paying
+662,Office Assistant,Provide general administrative support to office staff,['administrative support; filing; phone answering; data entry; customer service'],Business Services,Low paying
+663,Inventory Clerk,Track and manage inventory levels and stock movements,['inventory management; data entry; attention to detail; computer skills; organization'],Warehousing,Low paying
+664,Mail Clerk,Sort and distribute mail within organization,['mail sorting; organization; attention to detail; physical activity; time management'],Postal Services,Low paying
+665,Copy Machine Operator,Operate copy machines and handle print requests,['equipment operation; attention to detail; customer service; organization; basic maintenance'],Business Services,Low paying
+666,Parking Meter Attendant,Monitor parking meters and issue citations,['enforcement; walking; attention to detail; customer service; record keeping'],Government,Low paying
+667,Survey Taker,Conduct surveys and collect data from respondents,['data collection; communication; attention to detail; patience; computer skills'],Research & Development,Low paying
+668,Telemarketing Assistant,Make calls to promote products or gather information,['communication; phone skills; data entry; persistence; customer service'],Sales,Low paying
+669,Cleaning Service Worker,Clean offices and commercial buildings,['cleaning techniques; attention to detail; physical stamina; time management; reliability'],Cleaning Services,Low paying
+670,Landscape Laborer,Perform basic landscaping tasks and maintenance,['physical labor; basic landscaping; equipment use; teamwork; weather tolerance'],Landscaping,Low paying
+671,Construction Laborer,Assist with construction projects and manual labor,['physical labor; construction safety; tool usage; teamwork; following instructions'],Construction,Low paying
+672,Kitchen Prep Cook,Prepare ingredients and assist with food preparation,['food preparation; kitchen safety; sanitation; teamwork; time management'],Food Service,Low paying
+673,Dishwasher/Busser,Clean dishes and maintain dining area cleanliness,['cleaning; physical stamina; teamwork; time management; attention to detail'],Food Service,Low paying
+674,Retail Stock Clerk,Receive and stock merchandise in retail stores,['inventory management; physical labor; attention to detail; organization; teamwork'],Retail,Low paying
+675,Gas Station Attendant,Assist customers with fuel and vehicle services,['customer service; cash handling; basic automotive; attention to detail; physical activity'],Automotive,Low paying
+676,Animal Kennel Worker,Care for animals in kennels and shelters,['animal care; cleaning; physical stamina; patience; attention to detail'],Animal Services,Low paying
+677,Recycling Worker,Sort and process recyclable materials,['sorting; physical labor; attention to detail; environmental awareness; teamwork'],Environmental Services,Low paying
+678,Sign Holder,Hold advertising signs to promote businesses,['physical stamina; weather tolerance; reliability; attention to detail; customer interaction'],Advertising,Low paying
+679,Leaflet Distributor,Distribute flyers and promotional materials,['physical activity; customer interaction; reliability; time management; communication'],Advertising,Low paying
+680,Event Setup Worker,Set up equipment and decorations for events,['physical labor; attention to detail; teamwork; time management; following instructions'],Event Planning,Low paying
+681,Senior VP of Technology,Lead technology transformation and innovation initiatives,['technology leadership; digital transformation; strategic planning; innovation management; executive leadership'],Executive Leadership,High paying
+682,Chief Revenue Officer,Drive revenue growth and go-to-market strategies,['revenue strategy; sales leadership; market development; strategic partnerships; executive management'],Executive Leadership,High paying
+683,Principal Engineer,Lead engineering excellence and technical innovation,['technical leadership; engineering excellence; system architecture; mentoring; innovation'],Technology,High paying
+684,VP of Product Management,Oversee product portfolio and strategic roadmap,['product strategy; portfolio management; market analysis; leadership; innovation'],Technology,High paying
+685,Head of Data Science,Lead data science organization and AI initiatives,['data science leadership; machine learning; ai strategy; team building; advanced analytics'],Technology,High paying
+686,Managing Director,Lead business unit operations and strategic growth,['business leadership; strategic planning; p&l management; team building; market development'],Executive Leadership,High paying
+687,Chief Financial Officer,Oversee financial strategy and corporate finance,['financial strategy; corporate finance; risk management; executive leadership; investor relations'],Executive Leadership,High paying
+688,Senior Vice President,Lead major business divisions and strategic initiatives,['executive leadership; strategic planning; business development; team management; market strategy'],Executive Leadership,High paying
+689,General Manager,Manage overall business operations and performance,['operations management; business strategy; team leadership; p&l responsibility; customer relations'],Executive Leadership,High paying
+690,Director of Engineering,Lead engineering teams and technical delivery,['engineering management; technical strategy; team building; product development; innovation'],Technology,High paying
+691,Corporate Development Manager,Lead M&A activities and strategic partnerships,['corporate development; financial analysis; deal structuring; due diligence; negotiation'],Finance,Average paying
+692,Regional Sales Manager,Manage sales operations across geographic regions,['sales management; territory management; team leadership; customer relations; revenue growth'],Sales,Average paying
+693,Product Operations Manager,Optimize product development processes and workflows,['product operations; process improvement; cross-functional collaboration; analytics; project management'],Technology,Average paying
+694,Customer Experience Manager,Design and improve customer journey and satisfaction,['customer experience; journey mapping; analytics; process improvement; stakeholder management'],Business Services,Average paying
+695,Revenue Operations Analyst,Analyze and optimize revenue processes and systems,['revenue operations; sales analytics; crm management; process optimization; data analysis'],Business Services,Average paying
+696,AI Prompt Engineer,Design and optimize prompts for AI language models,['prompt engineering; nlp; data analysis; creativity; experimentation'],Technology,High paying
+697,Remote Work Policy Advisor,Develop and implement remote work strategies for organizations,['policy development; hr strategy; communication; change management; research'],Business Services,Average paying
+698,Electric Vehicle Technician,Maintain and repair electric vehicles and charging stations,['ev systems; diagnostics; electrical engineering; safety protocols; problem solving'],Automotive,Average paying
+699,Podcast Marketing Manager,Promote and grow podcast audiences through digital channels,['podcast promotion; social media; analytics; content strategy; communication'],Media & Publishing,Average paying
+700,Drone Delivery Operator,Manage and operate drone-based delivery services,['drone piloting; logistics; safety compliance; navigation; customer service'],Logistics,Average paying
+701,Climate Policy Analyst,Research and advise on climate-related policies and regulations,['policy analysis; environmental science; research; communication; data interpretation'],Government,High paying
+702,Digital Health Coach,Guide clients in using technology for health and wellness,['health coaching; digital tools; communication; motivation; data tracking'],Healthcare,Average paying
+703,3D Printing Technician,Operate and maintain 3D printers for various applications,['3d printing; cad; troubleshooting; material science; attention to detail'],Manufacturing,Average paying
+704,Online Fundraising Specialist,Plan and execute digital fundraising campaigns for nonprofits,['fundraising; digital marketing; communication; analytics; campaign management'],Nonprofit,Average paying
+705,Voice User Interface Designer,Design conversational interfaces for voice-activated devices,['voice ux; interaction design; prototyping; user research; creativity'],Technology,High paying
+706,Urban Mobility Planner,Design transportation solutions for growing cities,['urban planning; transportation systems; data analysis; communication; innovation'],Urban Development,Average paying
+707,AI Ethics Consultant,Advise organizations on responsible AI use,['ethics; ai policy; communication; risk assessment; research'],Technology,High paying
+708,Hydrogen Fuel Cell Technician,Maintain and repair hydrogen energy systems,['hydrogen systems; diagnostics; electrical engineering; safety protocols; troubleshooting'],Energy,Average paying
+709,Digital Currency Compliance Officer,Ensure cryptocurrency operations meet legal standards,['compliance; cryptocurrency; regulatory knowledge; risk management; communication'],Finance,High paying
+710,Remote Learning Facilitator,Support students and teachers in virtual classrooms,['education technology; communication; organization; troubleshooting; empathy'],Education,Average paying
+711,Smart Home Installer,Set up and configure home automation systems,['home automation; networking; troubleshooting; customer service; security'],Technology,Average paying
+712,Plant-Based Food Developer,Create new vegan and vegetarian food products,['food science; nutrition; product development; innovation; quality control'],Food Production,Average paying
+713,Digital Twin Analyst,Monitor and optimize virtual models of real-world systems,['data analysis; simulation; iot; problem solving; reporting'],Technology,Average paying
+714,Personal Cybersecurity Coach,Help individuals protect their digital lives,['cybersecurity; communication; training; risk assessment; technology awareness'],Technology,Average paying
+715,Remote Onboarding Specialist,Guide new hires through virtual orientation,['hr; communication; organization; technology skills; empathy'],Human Resources,Average paying
+716,AI Model Validator,Test and verify machine learning models for accuracy,['machine learning; testing; data analysis; documentation; python'],Technology,High paying
+717,Digital Art Curator,Select and manage digital art collections,['art history; digital media; curation; communication; research'],Arts & Culture,Average paying
+718,Online Therapy Platform Manager,Oversee operations of digital mental health services,['healthcare management; technology; communication; compliance; customer service'],Healthcare,High paying
+719,Electric Scooter Mechanic,Repair and maintain electric scooters and bikes,['diagnostics; electrical systems; mechanical skills; safety; customer service'],Transportation,Low paying
+720,Remote Customer Success Trainer,Teach best practices for virtual client support,['training; customer success; communication; technology skills; coaching'],Business Services,Average paying
+721,AI Data Labeling Supervisor,Oversee teams tagging data for machine learning,['team management; data annotation; quality control; communication; organization'],Technology,Average paying
+722,Digital Agriculture Consultant,Advise farms on technology adoption,['agriculture; technology; data analysis; communication; project management'],Agriculture,High paying
+723,Online Marketplace Manager,Oversee digital sales platforms and vendor relations,['e-commerce; vendor management; analytics; communication; marketing'],Sales,Average paying
+724,Virtual Reality Safety Trainer,Develop VR-based safety training programs,['vr development; safety protocols; instructional design; communication; innovation'],Technology,High paying
+725,Remote Technical Interviewer,Conduct coding interviews for distributed teams,['technical assessment; communication; coding skills; interviewing; objectivity'],Technology,Average paying
+726,Digital Supply Chain Analyst,Monitor and optimize online supply networks,['supply chain; data analysis; technology; problem solving; reporting'],Logistics,Average paying
+727,Online Brand Reputation Analyst,Track and report on digital brand sentiment,['analytics; social listening; communication; reporting; marketing'],Marketing,Average paying
+728,AI-Driven Content Strategist,Plan content using artificial intelligence tools,['content strategy; ai tools; analytics; communication; creativity'],Media & Publishing,High paying
+729,Remote Event Moderator,Facilitate virtual conferences and webinars,['event management; communication; technology; moderation; problem solving'],Event Planning,Average paying
+730,Digital Accessibility Tester,Test websites and apps for accessibility compliance,['accessibility standards; testing; reporting; communication; empathy'],Technology,Average paying
+731,Online Fitness Program Designer,Create digital exercise and wellness plans,['fitness; program design; technology; communication; motivation'],Fitness & Recreation,Average paying
+732,Remote Executive Assistant,Support executives from a distance,['organization; communication; technology; scheduling; confidentiality'],Business Services,Average paying
+733,AI-Powered Marketing Analyst,Leverage AI to optimize marketing campaigns,['marketing analytics; ai tools; data interpretation; reporting; communication'],Marketing,High paying
+734,Digital Fundraising Campaign Manager,Lead online donation drives for nonprofits,['fundraising; digital marketing; campaign management; analytics; communication'],Nonprofit,Average paying
+735,Online Language Tutor,Teach languages via digital platforms,['language proficiency; teaching; communication; technology; patience'],Education,Average paying
+736,Remote IT Asset Manager,Track and manage distributed technology resources,['it asset management; organization; technology; reporting; communication'],Technology,Average paying
+737,Digital Health Data Analyst,Analyze patient data from digital health tools,['data analysis; healthcare; reporting; privacy; technology'],Healthcare,High paying
+738,Online Product Demo Specialist,Showcase products through virtual presentations,['presentation skills; product knowledge; communication; technology; sales'],Sales,Average paying
+739,Remote HR Compliance Auditor,Ensure virtual teams follow employment laws,['hr compliance; auditing; communication; documentation; organization'],Human Resources,High paying
+740,AI Chatbot Designer,Create conversational flows for automated assistants,['conversation design; ai tools; ux; scripting; creativity'],Technology,High paying
+741,Digital Art Therapist,Use digital media for therapeutic interventions,['art therapy; digital tools; empathy; communication; creativity'],Healthcare,Average paying
+742,Online Peer Support Facilitator,Moderate digital mental health support groups,['facilitation; empathy; communication; technology; confidentiality'],Healthcare,Average paying
+743,Remote Payroll Coordinator,Process payroll for distributed teams,['payroll; hr; technology; attention to detail; compliance'],Human Resources,Average paying
+744,Digital Product Tester,Test and review new digital products,['testing; reporting; technology; communication; attention to detail'],Technology,Average paying
+745,Online Volunteer Coordinator,Manage remote volunteers for organizations,['volunteer management; communication; organization; technology; empathy'],Nonprofit,Average paying
+746,Remote Legal Researcher,Support legal teams with online research,['legal research; technology; writing; attention to detail; organization'],Legal Services,Average paying
+747,Digital Customer Insights Analyst,Analyze online customer feedback and trends,['analytics; data interpretation; reporting; communication; marketing'],Marketing,Average paying
+748,Remote Technical Account Manager,Support clients with technical solutions from afar,['account management; technical knowledge; communication; problem solving; customer service'],Technology,High paying
+749,Online Community Engagement Specialist,Boost participation in digital groups,['community management; communication; social media; creativity; analytics'],Technology,Average paying
+750,Remote Learning Assessment Designer,Create digital tests and quizzes,['assessment design; education technology; analytics; communication; creativity'],Education,Average paying
+751,Digital Sustainability Analyst,Track and report on environmental impact of tech,['environmental science; data analysis; reporting; technology; communication'],Environmental Services,Average paying
+752,Remote Medical Billing Specialist,Process healthcare payments from home,['medical billing; technology; attention to detail; compliance; communication'],Healthcare,Average paying
+753,Online Course Quality Reviewer,Ensure digital classes meet standards,['quality assurance; education; technology; reporting; communication'],Education,Average paying
+754,Remote Social Media Content Creator,Produce posts for brands from anywhere,['content creation; social media; creativity; communication; technology'],Marketing,Average paying
+755,Digital HR Data Analyst,Analyze workforce data for virtual teams,['data analysis; hr; reporting; technology; communication'],Human Resources,Average paying
+756,Remote Customer Retention Specialist,Keep online clients engaged and loyal,['customer service; communication; problem solving; technology; analytics'],Sales,Average paying
+757,Online Product Feedback Coordinator,Collect and organize digital user reviews,['feedback management; communication; organization; technology; reporting'],Technology,Average paying
+758,Remote Learning Experience Designer,Build engaging online education journeys,['instructional design; technology; creativity; communication; ux'],Education,High paying
+759,Digital Event Sponsorship Manager,Secure sponsors for virtual events,['sponsorship sales; event planning; communication; negotiation; technology'],Event Planning,Average paying
+760,Remote Technical Documentation Specialist,Write manuals for distributed software teams,['technical writing; documentation; technology; communication; organization'],Technology,Average paying
+761,Online Diversity & Inclusion Trainer,Deliver virtual D&I workshops,['training; diversity & inclusion; communication; technology; empathy'],Human Resources,Average paying
+762,Remote Product Launch Coordinator,Manage digital product rollouts,['project management; marketing; technology; communication; organization'],Technology,Average paying
+763,Digital Wellness App Coach,Guide users through health apps,['coaching; wellness; technology; communication; motivation'],Wellness,Average paying
+764,Remote Data Privacy Officer,Oversee digital privacy compliance,['data privacy; compliance; technology; communication; risk assessment'],Technology,High paying
+765,Online Customer Loyalty Program Manager,Develop digital rewards initiatives,['loyalty programs; marketing; analytics; communication; technology'],Marketing,Average paying
+766,Remote Employee Engagement Analyst,Track morale in distributed teams,['analytics; hr; communication; reporting; technology'],Human Resources,Average paying
+767,Digital Product Accessibility Advocate,Promote inclusive design in tech,['accessibility; advocacy; communication; technology; ux'],Technology,Average paying
+768,Remote Brand Partnership Manager,Build alliances for online brands,['partnerships; marketing; negotiation; communication; technology'],Marketing,Average paying
+769,Online Learning Analytics Specialist,Analyze student data from digital courses,['analytics; education; reporting; technology; communication'],Education,Average paying
+770,Remote Technical Support Supervisor,Lead virtual help desk teams,['team leadership; technical support; communication; technology; problem solving'],Technology,Average paying
+771,Digital Content Licensing Manager,Oversee rights for online media,['licensing; media law; negotiation; communication; organization'],Media & Publishing,High paying
+772,Remote Employee Wellness Coordinator,Organize virtual health initiatives,['wellness; hr; communication; program management; technology'],Human Resources,Average paying
+773,Online Product Usability Tester,Evaluate ease of use for digital tools,['usability testing; ux; reporting; communication; technology'],Technology,Average paying
+774,Remote Digital Marketing Trainer,Teach online marketing skills,['training; digital marketing; communication; technology; coaching'],Marketing,Average paying
+775,Digital Customer Journey Analyst,Map and improve online user experiences,['customer experience; analytics; ux; communication; technology'],Technology,Average paying
+776,Remote IT Security Analyst,Monitor cybersecurity for distributed teams,['cybersecurity; monitoring; reporting; technology; communication'],Technology,High paying
+777,Online Community Policy Writer,Develop guidelines for digital groups,['policy writing; community management; communication; technology; research'],Technology,Average paying
+778,Remote Product Analytics Lead,Oversee data-driven product decisions,['analytics; product management; leadership; communication; technology'],Technology,High paying
+779,Digital Content Monetization Strategist,Develop revenue streams for online media,['monetization; media strategy; analytics; communication; technology'],Media & Publishing,High paying
+780,Remote Learning Support Specialist,Assist students in virtual classrooms,['support; education; communication; technology; empathy'],Education,Average paying
+781,Online Brand Storyteller,Create compelling narratives for digital brands,['storytelling; content creation; marketing; communication; creativity'],Marketing,Average paying
+782,Remote Technical Skills Assessor,Test candidates for digital job skills,['assessment; technology; communication; reporting; objectivity'],Technology,Average paying
+783,Digital Product Lifecycle Manager,Oversee all stages of online product development,['product management; project management; technology; communication; analytics'],Technology,High paying
+784,Remote Employee Training Coordinator,Organize virtual learning sessions,['training; organization; communication; technology; scheduling'],Human Resources,Average paying
+785,Online Community Growth Hacker,Boost membership in digital groups,['growth hacking; marketing; analytics; communication; technology'],Technology,Average paying
+786,Remote Digital Transformation Lead,Guide companies through tech adoption,['digital strategy; change management; communication; technology; leadership'],Consulting,High paying
+787,Digital Content Rights Analyst,Track and enforce online media usage,['rights management; analytics; media law; communication; technology'],Media & Publishing,Average paying
+788,Remote Customer Feedback Analyst,Analyze online reviews and surveys,['analytics; communication; reporting; technology; customer service'],Sales,Average paying
+789,Online Product Customization Specialist,Help users personalize digital tools,['customization; ux; communication; technology; problem solving'],Technology,Average paying
+790,Remote Employee Recognition Program Manager,Develop digital reward systems,['recognition programs; hr; communication; technology; organization'],Human Resources,Average paying
+791,Digital Brand Compliance Officer,Ensure online branding meets standards,['compliance; branding; communication; technology; reporting'],Marketing,Average paying
+792,Remote Learning Platform Administrator,Manage digital education systems,['platform administration; technology; communication; troubleshooting; organization'],Education,Average paying
+793,Online Product Localization Manager,Adapt digital tools for global markets,['localization; translation; project management; communication; technology'],Technology,High paying
+794,Remote Digital HR Specialist,Support virtual HR operations,['hr; technology; communication; organization; reporting'],Human Resources,Average paying
+795,Digital Customer Advocacy Manager,Champion user needs in online products,['advocacy; customer experience; communication; technology; problem solving'],Technology,Average paying
+796,Remote Technical Training Developer,Create online tech learning content,['instructional design; technology; communication; training; creativity'],Technology,Average paying
+797,Online Community Crisis Moderator,Handle emergencies in digital groups,['crisis management; community management; communication; technology; empathy'],Technology,Average paying
+798,Remote Digital Brand Manager,Oversee online brand presence,['brand management; marketing; communication; technology; strategy'],Marketing,Average paying
+799,Digital Product Feedback Analyst,Analyze user input for online tools,['analytics; feedback management; communication; technology; reporting'],Technology,Average paying
+800,Remote Employee Benefits Specialist,Manage virtual perks and insurance,['hr; benefits administration; communication; technology; compliance'],Human Resources,Average paying
+801,Online Product Documentation Lead,Oversee digital manuals and guides,['documentation; writing; technology; communication; organization'],Technology,Average paying
+802,Remote Digital Marketing Analyst,Track online campaign performance,['analytics; marketing; reporting; technology; communication'],Marketing,Average paying
+803,Digital Customer Support Chatbot Trainer,Improve automated help systems,['chatbot training; ai tools; communication; technology; ux'],Technology,Average paying
+804,Remote Learning Content Curator,Select resources for digital courses,['content curation; education; technology; communication; organization'],Education,Average paying
+805,Online Product Security Tester,Find vulnerabilities in digital tools,['security testing; technology; reporting; communication; problem solving'],Technology,High paying
+806,Remote Employee Onboarding Content Creator,Develop digital orientation materials,['content creation; hr; technology; communication; organization'],Human Resources,Average paying
+807,Digital Customer Experience Program Manager,Lead initiatives to improve online service,['program management; customer experience; communication; technology; analytics'],Technology,High paying
+808,Remote Technical Project Scheduler,Plan timelines for distributed teams,['project scheduling; technology; communication; organization; reporting'],Technology,Average paying
+809,Online Product Beta Tester,Try out new digital features before launch,['beta testing; feedback; technology; communication; attention to detail'],Technology,Average paying
+810,Remote Digital HR Compliance Lead,Ensure virtual teams follow employment laws,['hr compliance; auditing; communication; documentation; organization'],Human Resources,High paying
+811,Digital Product Knowledge Base Manager,Maintain online help resources,['knowledge management; writing; technology; communication; organization'],Technology,Average paying
+812,Remote Employee Survey Analyst,Interpret feedback from distributed teams,['survey analysis; hr; analytics; communication; reporting'],Human Resources,Average paying
+813,Online Product Roadmap Coordinator,Track development milestones for digital tools,['project management; product management; communication; technology; organization'],Technology,Average paying
+814,Remote Digital Brand Strategist,Plan online brand direction,['brand strategy; marketing; communication; technology; analytics'],Marketing,High paying
+815,Digital Customer Loyalty Analyst,Study retention trends in online services,['analytics; customer experience; reporting; communication; technology'],Marketing,Average paying
+816,Remote Learning Technology Integrator,Implement new tools in digital classrooms,['edtech; integration; training; communication; problem solving'],Education,Average paying
+817,Online Product Accessibility Tester,Check digital tools for inclusive design,['accessibility testing; ux; reporting; communication; technology'],Technology,Average paying
+818,Remote Employee Wellness App Coordinator,Promote digital health tools for staff,['wellness; hr; technology; communication; program management'],Human Resources,Average paying
+819,Digital Product Release Manager,Oversee online tool launches,['release management; product management; communication; technology; organization'],Technology,High paying
+820,Remote Digital Marketing Campaign Lead,Direct virtual ad initiatives,['campaign management; marketing; communication; technology; analytics'],Marketing,High paying
+821,Online Community Engagement Data Analyst,Track participation in digital groups,['analytics; community management; reporting; communication; technology'],Technology,Average paying
+822,Remote Technical Support Content Writer,Create help articles for online users,['technical writing; support; technology; communication; organization'],Technology,Average paying
+823,Digital Product User Researcher,Study online user behavior,['user research; analytics; communication; technology; reporting'],Technology,Average paying
+824,Remote Employee Training App Developer,Build digital learning tools,['app development; training; technology; communication; ux'],Technology,High paying
+825,Online Product Feature Prioritization Analyst,Rank new ideas for digital tools,['product management; analytics; communication; technology; decision making'],Technology,Average paying
+826,Remote Digital Brand Insights Manager,Analyze trends for online brands,['brand insights; analytics; communication; technology; reporting'],Marketing,High paying
+827,Digital Customer Support Quality Auditor,Review online help interactions,['quality assurance; customer service; communication; technology; reporting'],Technology,Average paying
+828,Remote Learning Platform Tester,Check digital education tools for bugs,['testing; education; technology; reporting; communication'],Education,Average paying
+829,Online Product Usage Data Analyst,Study how users interact with digital tools,['usage analytics; reporting; communication; technology; data interpretation'],Technology,Average paying
+830,Remote Employee Engagement Program Lead,Design virtual morale initiatives,['program management; hr; communication; technology; analytics'],Human Resources,Average paying
+831,Digital Product Translation Coordinator,Manage localization for online tools,['translation; project management; communication; technology; organization'],Technology,Average paying
+832,Remote Digital Marketing Content Planner,Schedule posts for online campaigns,['content planning; marketing; communication; technology; organization'],Marketing,Average paying
+833,Online Community Safety Specialist,Protect digital groups from abuse,['safety protocols; community management; communication; technology; crisis response'],Technology,Average paying
+834,Remote Technical Interview Content Developer,Write questions for coding assessments,['content creation; technology; communication; assessment; organization'],Technology,Average paying
+835,Digital Product User Feedback Moderator,Review and organize online suggestions,['moderation; feedback management; communication; technology; reporting'],Technology,Average paying
+836,Remote Employee Benefits Data Analyst,Study usage of virtual perks,['analytics; hr; reporting; communication; technology'],Human Resources,Average paying
+837,Online Product Security Compliance Lead,Ensure digital tools meet safety standards,['security compliance; technology; communication; auditing; reporting'],Technology,High paying
+838,Remote Digital Brand Content Editor,Review online marketing materials,['editing; content creation; marketing; communication; technology'],Marketing,Average paying
+839,Digital Customer Support Training Lead,Teach best practices for online help,['training; customer service; communication; technology; coaching'],Technology,Average paying
+840,Remote Learning Platform Support Analyst,Assist users with digital education tools,['support; education; technology; communication; troubleshooting'],Education,Average paying
+841,Online Product Analytics Dashboard Designer,Build data visualizations for digital tools,['dashboard design; analytics; technology; communication; ux'],Technology,Average paying
+842,Remote Employee Recognition Data Analyst,Track digital reward program results,['analytics; hr; reporting; communication; technology'],Human Resources,Average paying
+843,Digital Product User Persona Developer,Create profiles for online tool users,['persona development; research; communication; technology; creativity'],Technology,Average paying
+844,Remote Digital Marketing Automation Lead,Oversee online campaign workflows,['automation; marketing; technology; communication; project management'],Marketing,High paying
+845,Online Community Content Scheduler,Plan posts for digital groups,['content scheduling; community management; communication; technology; organization'],Technology,Average paying
+846,Remote Technical Support Quality Lead,Audit help desk performance,['quality assurance; technical support; communication; technology; reporting'],Technology,Average paying
+847,Digital Product User Testing Coordinator,Organize online usability studies,['user testing; project management; communication; technology; reporting'],Technology,Average paying
+848,Remote Employee Wellness Survey Designer,Create digital health questionnaires,['survey design; wellness; hr; communication; technology'],Human Resources,Average paying
+849,Online Product Feature Documentation Writer,Describe new digital tool functions,['documentation; writing; technology; communication; organization'],Technology,Average paying
+850,Remote Digital Brand Campaign Analyst,Study results of online promotions,['analytics; marketing; reporting; communication; technology'],Marketing,Average paying
+851,Remote Podcast Editor,Edit and produce audio for remote podcast teams,['audio editing; podcast production; communication; technology; attention to detail'],Media & Publishing,Average paying
+852,Online Sustainability Course Instructor,Teach environmental topics via digital platforms,['teaching; environmental science; communication; technology; curriculum design'],Education,Average paying
+853,Remote Digital Illustration Artist,Create illustrations for online media and brands,['digital art; creativity; communication; technology; branding'],Media & Publishing,Average paying
+854,Virtual Reality Tour Guide,Lead immersive tours in VR environments,['vr technology; communication; storytelling; customer service; creativity'],Tourism,Average paying
+855,Remote SaaS Implementation Specialist,Help clients set up and use SaaS products,['technical support; saas; communication; training; project management'],Technology,Average paying
+856,Online Coding Bootcamp Mentor,Guide students through intensive programming courses,['programming; mentoring; communication; technology; problem solving'],Education,Average paying
+857,Remote Digital PR Specialist,Manage public relations for online brands,['pr strategy; communication; digital media; writing; analytics'],Marketing,Average paying
+858,Online Marketplace Fraud Analyst,Detect and prevent fraud on e-commerce platforms,['fraud detection; data analysis; e-commerce; communication; investigation'],Technology,Average paying
+859,Remote Digital Accessibility Advocate,Promote accessible design in virtual spaces,['accessibility; advocacy; communication; technology; ux'],Technology,Average paying
+860,Online Nutrition Coach,Provide dietary advice via digital platforms,['nutrition; coaching; communication; technology; motivation'],Healthcare,Average paying
+861,Remote Digital Advertising Buyer,Purchase and optimize online ad placements,['advertising; analytics; negotiation; communication; technology'],Marketing,Average paying
+862,Online Language Assessment Specialist,Develop and score digital language proficiency tests,['assessment; linguistics; communication; technology; data analysis'],Education,Average paying
+863,Remote Digital Fundraising Strategist,Plan and execute online giving campaigns,['fundraising; digital strategy; communication; analytics; project management'],Nonprofit,Average paying
+864,Online Customer Insights Survey Designer,Create and analyze digital customer surveys,['survey design; analytics; communication; technology; reporting'],Marketing,Average paying
+865,Remote Digital Event Ticketing Manager,Oversee ticket sales for virtual events,['ticketing systems; event management; communication; technology; customer service'],Event Planning,Average paying
+866,Online Digital Rights Manager,Protect and manage intellectual property online,['ip law; digital media; communication; technology; compliance'],Legal Services,Average paying
+867,Remote Digital Product Demo Host,Present product features to online audiences,['presentation; product knowledge; communication; technology; sales'],Sales,Average paying
+868,Online Digital Art Instructor,Teach art techniques via digital platforms,['art instruction; digital tools; communication; creativity; technology'],Education,Average paying
+869,Remote Digital Community Safety Lead,Develop and enforce safety policies for online groups,['community management; safety protocols; communication; technology; policy writing'],Technology,Average paying
+870,Online Digital Brand Licensing Coordinator,Manage licensing agreements for online brands,['licensing; contract management; communication; technology; negotiation'],Marketing,Average paying
+871,Remote Digital Customer Onboarding Lead,Guide new users through digital product setup,['onboarding; customer service; communication; technology; training'],Technology,Average paying
+872,Online Digital Product QA Lead,Oversee quality assurance for online tools,['qa testing; technology; communication; leadership; reporting'],Technology,Average paying
+873,Remote Digital Content Planner,Strategize and schedule online content releases,['content strategy; planning; communication; technology; organization'],Media & Publishing,Average paying
+874,Online Digital Brand Researcher,Study trends and competitors in online branding,['market research; analytics; communication; technology; reporting'],Marketing,Average paying
+875,Remote Digital Product Launch Analyst,Analyze and report on virtual product launches,['analytics; product management; communication; technology; reporting'],Technology,Average paying
+876,Online Digital Customer Training Lead,Develop and deliver online training for customers,['training; communication; technology; curriculum design; customer service'],Technology,Average paying
+877,Remote Digital Brand Engagement Analyst,Track and improve online brand engagement,['analytics; engagement strategy; communication; technology; reporting'],Marketing,Average paying
+878,Online Digital Product Security Analyst,Monitor and report on digital product security,['security analysis; technology; communication; reporting; risk assessment'],Technology,High paying
+879,Remote Digital Product Feedback Lead,Manage user feedback for online products,['feedback management; communication; technology; analytics; reporting'],Technology,Average paying
+880,Online Digital Brand Content Strategist,Plan and oversee online brand content,['content strategy; branding; communication; technology; analytics'],Marketing,Average paying
+881,Remote Digital Product Support Lead,Oversee support operations for digital products,['support management; communication; technology; leadership; problem solving'],Technology,Average paying
+882,Online Digital Brand Analytics Lead,Lead analytics for online brand performance,['analytics; branding; communication; technology; reporting'],Marketing,High paying
+883,Remote Digital Product Marketing Lead,Direct marketing for digital products,['marketing strategy; product marketing; communication; technology; analytics'],Marketing,High paying
+884,Online Digital Community Growth Lead,Drive growth for online communities,['community management; growth strategy; communication; technology; analytics'],Technology,Average paying
+885,Remote Digital Product Documentation Analyst,Analyze and improve product documentation,['documentation; analysis; communication; technology; writing'],Technology,Average paying
+886,Online Digital Brand Partnership Lead,Build partnerships for online brands,['partnerships; branding; communication; technology; negotiation'],Marketing,Average paying
+887,Remote Digital Product Analytics Analyst,Analyze data for digital product teams,['analytics; data interpretation; communication; technology; reporting'],Technology,Average paying
+888,Online Digital Brand Campaign Lead,Lead online brand campaigns,['campaign management; branding; communication; technology; analytics'],Marketing,Average paying
+889,Remote Digital Product Usability Analyst,Test and report on product usability,['usability testing; ux; communication; technology; reporting'],Technology,Average paying
+890,Online Digital Brand Content Analyst,Analyze and report on brand content,['content analysis; branding; communication; technology; reporting'],Marketing,Average paying
+891,Remote Digital Product Engagement Lead,Increase user engagement for digital products,['engagement strategy; communication; technology; analytics; reporting'],Technology,Average paying
+892,Online Digital Brand Insights Analyst,Provide insights on online brand performance,['analytics; branding; communication; technology; reporting'],Marketing,Average paying
+893,Remote Digital Product Release Analyst,Manage and analyze product releases,['release management; analytics; communication; technology; reporting'],Technology,Average paying
+894,Online Digital Brand Experience Lead,Enhance online brand experiences,['brand experience; communication; technology; ux; analytics'],Marketing,Average paying
+895,Remote Digital Product Training Analyst,Develop training for digital product users,['training; communication; technology; curriculum design; analytics'],Technology,Average paying
+896,Online Digital Brand Loyalty Analyst,Analyze and improve brand loyalty,['analytics; loyalty programs; communication; technology; reporting'],Marketing,Average paying
+897,Remote Digital Product Content Analyst,Analyze and optimize product content,['content analysis; communication; technology; analytics; reporting'],Technology,Average paying
+898,Online Digital Brand Retention Analyst,Increase retention for online brands,['retention strategy; analytics; communication; technology; reporting'],Marketing,Average paying
+899,Remote Digital Product Growth Analyst,Drive growth for digital products,['growth strategy; analytics; communication; technology; reporting'],Technology,Average paying
+900,Online Digital Brand Experience Analyst,Analyze and improve brand experiences,['brand experience; analytics; communication; technology; reporting'],Marketing,Average paying
+901,Remote Digital Product Insights Analyst,Provide insights for digital product teams,['analytics; data interpretation; communication; technology; reporting'],Technology,Average paying
+902,Online Digital Brand Engagement Lead,Lead engagement strategies for online brands,['engagement strategy; branding; communication; technology; analytics'],Marketing,Average paying
+903,Remote Digital Product Loyalty Analyst,Increase loyalty for digital products,['loyalty programs; analytics; communication; technology; reporting'],Technology,Average paying
+904,Online Digital Brand Growth Analyst,Analyze and drive brand growth,['growth strategy; analytics; communication; technology; reporting'],Marketing,Average paying
+905,Remote Digital Product Experience Analyst,Enhance user experience for digital products,['ux; analytics; communication; technology; reporting'],Technology,Average paying
+906,Online Digital Brand Support Analyst,Support online brand operations,['support; branding; communication; technology; organization'],Marketing,Average paying
+907,Remote Digital Product Campaign Analyst,Analyze digital product campaigns,['campaign analysis; analytics; communication; technology; reporting'],Technology,Average paying
+908,Online Digital Brand Training Analyst,Develop training for brand teams,['training; branding; communication; technology; curriculum design'],Marketing,Average paying
+909,Remote Digital Product Content Lead,Lead content strategy for digital products,['content strategy; communication; technology; analytics; leadership'],Technology,Average paying
+910,Online Digital Brand Documentation Analyst,Analyze and improve brand documentation,['documentation; branding; communication; technology; writing'],Marketing,Average paying
+911,Remote Digital Product Partnership Analyst,Build partnerships for digital products,['partnerships; analytics; communication; technology; negotiation'],Technology,Average paying
+912,Online Digital Brand Release Analyst,Manage and analyze brand releases,['release management; branding; communication; technology; reporting'],Marketing,Average paying
+913,Remote Digital Product Experience Lead,Lead user experience for digital products,['ux; leadership; communication; technology; analytics'],Technology,High paying
+914,Online Digital Brand Insights Lead,Lead insights for online brands,['analytics; branding; communication; technology; reporting'],Marketing,High paying
+915,Remote Digital Product Retention Analyst,Increase retention for digital products,['retention strategy; analytics; communication; technology; reporting'],Technology,Average paying
+916,Online Digital Brand Content Lead,Lead content for online brands,['content strategy; branding; communication; technology; leadership'],Marketing,Average paying
+917,Remote Digital Product Documentation Lead,Lead documentation for digital products,['documentation; leadership; communication; technology; writing'],Technology,Average paying
+918,Online Digital Brand Partnership Analyst,Analyze partnerships for online brands,['partnerships; analytics; communication; technology; reporting'],Marketing,Average paying
+919,Remote Digital Product Campaign Lead,Lead campaigns for digital products,['campaign management; analytics; communication; technology; leadership'],Technology,Average paying
+920,Online Digital Brand Experience Lead,Lead brand experience strategies,['brand experience; leadership; communication; technology; analytics'],Marketing,High paying
+921,Remote Digital Product Growth Lead,Lead growth for digital products,['growth strategy; leadership; communication; technology; analytics'],Technology,High paying
+922,Online Digital Brand Support Lead,Lead support for online brands,['support; branding; leadership; communication; technology'],Marketing,Average paying
+923,Remote Digital Product Insights Lead,Lead insights for digital product teams,['analytics; leadership; communication; technology; reporting'],Technology,High paying
+924,Online Digital Brand Retention Lead,Lead retention strategies for online brands,['retention strategy; leadership; communication; technology; analytics'],Marketing,Average paying
+925,Remote Digital Product Experience Lead,Lead user experience for digital products,['ux; leadership; communication; technology; analytics'],Technology,High paying
+926,Online Digital Brand Training Lead,Lead training for brand teams,['training; branding; leadership; communication; technology'],Marketing,Average paying
+927,Remote Digital Product Content Analyst,Analyze and optimize product content,['content analysis; communication; technology; analytics; reporting'],Technology,Average paying
+928,Online Digital Brand Documentation Lead,Lead documentation for online brands,['documentation; branding; leadership; communication; technology'],Marketing,Average paying
+929,Remote Digital Product Partnership Lead,Lead partnerships for digital products,['partnerships; leadership; communication; technology; negotiation'],Technology,Average paying
+930,Online Digital Brand Release Lead,Lead releases for online brands,['release management; branding; leadership; communication; technology'],Marketing,Average paying
+931,Remote Digital Product Engagement Analyst,Analyze engagement for digital products,['engagement strategy; analytics; communication; technology; reporting'],Technology,Average paying
+932,Online Digital Brand Growth Lead,Lead growth for online brands,['growth strategy; leadership; communication; technology; analytics'],Marketing,High paying
+933,Remote Digital Product Support Analyst,Support digital product operations,['support; analytics; communication; technology; organization'],Technology,Average paying
+934,Online Digital Brand Insights Analyst,Analyze insights for online brands,['analytics; branding; communication; technology; reporting'],Marketing,Average paying
+935,Remote Digital Product Loyalty Lead,Lead loyalty programs for digital products,['loyalty programs; leadership; communication; technology; analytics'],Technology,Average paying
+936,Online Digital Brand Content Analyst,Analyze and report on brand content,['content analysis; branding; communication; technology; reporting'],Marketing,Average paying
+937,Remote Digital Product Documentation Analyst,Analyze and improve product documentation,['documentation; analysis; communication; technology; writing'],Technology,Average paying
+938,Online Digital Brand Partnership Lead,Lead partnerships for online brands,['partnerships; leadership; communication; technology; negotiation'],Marketing,Average paying
+939,Remote Digital Product Campaign Analyst,Analyze digital product campaigns,['campaign analysis; analytics; communication; technology; reporting'],Technology,Average paying
+940,Online Digital Brand Experience Analyst,Analyze and improve brand experiences,['brand experience; analytics; communication; technology; reporting'],Marketing,Average paying
+941,Remote Digital Product Growth Analyst,Drive growth for digital products,['growth strategy; analytics; communication; technology; reporting'],Technology,Average paying
+942,Online Digital Brand Support Analyst,Support online brand operations,['support; branding; communication; technology; organization'],Marketing,Average paying
+943,Remote Digital Product Insights Analyst,Provide insights for digital product teams,['analytics; data interpretation; communication; technology; reporting'],Technology,Average paying
+944,Online Digital Brand Retention Analyst,Increase retention for online brands,['retention strategy; analytics; communication; technology; reporting'],Marketing,Average paying
+945,Remote Digital Product Experience Analyst,Enhance user experience for digital products,['ux; analytics; communication; technology; reporting'],Technology,Average paying
+946,Online Digital Brand Training Analyst,Develop training for brand teams,['training; branding; communication; technology; curriculum design'],Marketing,Average paying
+947,Remote Digital Product Content Lead,Lead content strategy for digital products,['content strategy; communication; technology; analytics; leadership'],Technology,Average paying
+948,Online Digital Brand Documentation Analyst,Analyze and improve brand documentation,['documentation; branding; communication; technology; writing'],Marketing,Average paying
+949,Remote Digital Product Partnership Analyst,Build partnerships for digital products,['partnerships; analytics; communication; technology; negotiation'],Technology,Average paying
+950,Online Digital Brand Release Analyst,Manage and analyze brand releases,['release management; branding; communication; technology; reporting'],Marketing,Average paying
+951,Remote Digital Product Experience Lead,Lead user experience for digital products,['ux; leadership; communication; technology; analytics'],Technology,High paying
+952,Online Digital Brand Insights Lead,Lead insights for online brands,['analytics; branding; communication; technology; reporting'],Marketing,High paying
+953,Remote Digital Product Retention Analyst,Increase retention for digital products,['retention strategy; analytics; communication; technology; reporting'],Technology,Average paying
+954,Online Digital Brand Content Lead,Lead content for online brands,['content strategy; branding; communication; technology; leadership'],Marketing,Average paying
+955,Remote Digital Product Documentation Lead,Lead documentation for digital products,['documentation; leadership; communication; technology; writing'],Technology,Average paying
+956,Online Digital Brand Partnership Analyst,Analyze partnerships for online brands,['partnerships; analytics; communication; technology; reporting'],Marketing,Average paying
+957,Remote Digital Product Campaign Lead,Lead campaigns for digital products,['campaign management; analytics; communication; technology; leadership'],Technology,Average paying
+958,Online Digital Brand Experience Lead,Lead brand experience strategies,['brand experience; leadership; communication; technology; analytics'],Marketing,High paying
+959,Remote Digital Product Growth Lead,Lead growth for digital products,['growth strategy; leadership; communication; technology; analytics'],Technology,High paying
+960,Online Digital Brand Support Lead,Lead support for online brands,['support; branding; leadership; communication; technology'],Marketing,Average paying
+961,Remote Digital Product Insights Lead,Lead insights for digital product teams,['analytics; leadership; communication; technology; reporting'],Technology,High paying
+962,Online Digital Brand Retention Lead,Lead retention strategies for online brands,['retention strategy; leadership; communication; technology; analytics'],Marketing,Average paying
+963,Remote Digital Product Experience Lead,Lead user experience for digital products,['ux; leadership; communication; technology; analytics'],Technology,High paying
+964,Online Digital Brand Training Lead,Lead training for brand teams,['training; branding; leadership; communication; technology'],Marketing,Average paying
+965,Remote Digital Product Content Analyst,Analyze and optimize product content,['content analysis; communication; technology; analytics; reporting'],Technology,Average paying
+966,Online Digital Brand Documentation Lead,Lead documentation for online brands,['documentation; branding; leadership; communication; technology'],Marketing,Average paying
+967,Remote Digital Product Partnership Lead,Lead partnerships for digital products,['partnerships; leadership; communication; technology; negotiation'],Technology,Average paying
+968,Online Digital Brand Release Lead,Lead releases for online brands,['release management; branding; leadership; communication; technology'],Marketing,Average paying
+969,Remote Digital Product Engagement Analyst,Analyze engagement for digital products,['engagement strategy; analytics; communication; technology; reporting'],Technology,Average paying
+970,Online Digital Brand Growth Lead,Lead growth for online brands,['growth strategy; leadership; communication; technology; analytics'],Marketing,High paying
